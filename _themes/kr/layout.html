@@ -1,0 +1,48 @@
+{%- extends "basic/layout.html" %}
+{%- block extrahead %}
+  {{ super() }}
+  {% if theme_touch_icon %}
+    <link rel="apple-touch-icon" href="{{ pathto('_static/' ~ theme_touch_icon, 1) }}" />
+  {% endif %}
+  <link rel="stylesheet" href="{{ pathto('_static/social.css', 1) }}" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
+{% endblock %}
+{%- block sidebar1 %}
+<!-- <div class="document body">
+    <div class="admonition-votez-pour-mangaki-avant-mardi-17-novembre admonition">
+    <p class="first admonition-title">If you like my work, please consider <a class="reference external" href="http://student.openworldforum.paris/projet/mangaki/#polls-6" target="_blank">voting for Mangaki</a> (2 clicks, no registration, 5 seconds)</p>
+    <div class="figure">
+    <a class="reference external image-reference" href="http://student.openworldforum.paris/projet/mangaki/#polls-6" target="_blank"><img alt="Mangaki logo" src="/_images/mangaki.png" /></a>
+    </div>
+    <p class="last"><strong>Mangaki</strong>, an anime/manga recommender system I made, is currently <strong>finalist</strong> of Student Demo Cup!<br />
+    Please <a class="reference external" href="http://student.openworldforum.paris/projet/mangaki/#polls-6" target="_blank">vote for us here</a> by Tuesday! Thanks!</p>
+    <div class="entry-social-sharing social-links"><a class="twitter-share-link" href="https://twitter.com/intent/tweet?&amp;text=Vote for @MangakiFR! http://student.openworldforum.paris/projet/mangaki/#polls-6" title="Share on Twitter">Twitter</a><a class="facebook-share-link" href="https://www.facebook.com/sharer/sharer.php?u=http://student.openworldforum.paris/projet/mangaki/#polls-6" title="Share on Facebook">Facebook</a><a class="g-plus-share-link" href="https://plus.google.com/share?url=http://student.openworldforum.paris/projet/mangaki/#polls-6" title="Share on Google+">Google+</a><a class="email-share-link" href="mailto:?subject=Vote for @MangakiFR!&amp;body=Here is the link: http://student.openworldforum.paris/projet/mangaki/#polls-6" title="Share via email">Email</a></div>
+    </div>
+</div> -->
+{% endblock %}
+{%- block relbar2 %}{% endblock %}
+{%- block footer %}
+    <div class="footer">
+      &copy; Copyright {{ copyright }}.
+    </div>
+
+    <a href="http://www.xiti.com/xiti.asp?s=311254" title="WebAnalytics" target="_blank">
+    <script>
+    <!--
+    Xt_param = 's=311254&p={{ pagename }}';
+    try {Xt_r = top.document.referrer;}
+    catch(e) {Xt_r = document.referrer;}
+    Xt_h = new Date();
+    Xt_i = '<img width="80" height="15" border="0" alt="" ';
+    Xt_i += 'src="http://logv16.xiti.com/bcg.xiti?'+Xt_param;
+    Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+    if(parseFloat(navigator.appVersion)>=4)
+    {Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+    document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+    //-->
+    </script>
+    <noscript>
+    Mesure d'audience ROI statistique webanalytics par <img width="80" height="15" src="http://logv16.xiti.com/bcg.xiti?s=311254&amp;p={{ pagename }}" alt="WebAnalytics" />
+    </noscript></a>
+
+{%- endblock %}
