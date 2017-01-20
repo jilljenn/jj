@@ -10,7 +10,7 @@ Livres et chapitres d'ouvrage
 - Les clés pour l'info
     avec Ismaël Belghiti et Roger Mansuy. Éd. Calvage & Mounet, janvier 2017.
 
-- `Programmation efficace <tryalgo.org/book>`_
+- `Programmation efficace <http://tryalgo.org/book>`_
     avec Christoph Dürr. Éditions Ellipses, mars 2016.
 
 - A Review of Recent Advances in Adaptive Assessment
