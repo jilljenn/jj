@@ -1,4 +1,4 @@
-Vidéos YouTube
+YouTube Videos
 ==============
 
 Vidéos avec `Sedeto <http://sedeto.fr>`_
@@ -7,7 +7,7 @@ Vidéos avec `Sedeto <http://sedeto.fr>`_
 - `Cosmo Warrior Zero - The Book of Life <https://youtu.be/3Va4Nw6y-Gg>`_
 - `Suzumiya Haruhi no Yūutsu - Bouken Desho Desho? <https://youtu.be/hsr_YJgbTwA>`_
 - `Aoi Teshima - Teru no Uta <https://youtu.be/vbPS2AUx8KE>`_
-- `Suzumiya Haruhi no Yūutsu - Tomare! <https://youtu.be/L5OCbFO5_xQ>`_
+- `Suzumiya Haruhi no Yūutsu - Tomare! (w/ Sedeto) <https://youtu.be/L5OCbFO5_xQ>`_
 - `Ghost in the Shell: Stand Alone Complex - I Do <https://youtu.be/zZJjyOH1Jjo>`_
 - `Spirited Away - Itsumo Nando Demo <https://youtu.be/oul2eHQPdnc>`_
 - `.hack//G.U. - Yasashii Ryoute <https://youtu.be/VUEXmRqYfpY>`_

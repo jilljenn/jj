@@ -13,8 +13,7 @@ Vendredi 4 juillet 2008
 
 Le but de la journée, c'était d'obtenir une dédicace de Benjamin du manhua *Orange*.
 
-.. figure:: http://www.ozoux.com/eclectic/archive/2008/04/29/images/2008/benjamin-orange.jpg
-   :target: http://www.ozoux.com/eclectic/archive/2008/04/29/images/2008/benjamin-orange.jpg
+.. figure:: /_static/pictures/japanexpo2008/benjamin-orange.jpg
    :align: center
 
    *Orange*, de Benjamin
@@ -44,8 +43,7 @@ En marchant, on a vu une jeune fille peu vêtue qui posait pour un gros geek ave
 
    Cosplay de Cloud (de *Final Fantasy VII*)
 
-.. figure:: http://upload.wikimedia.org/wikipedia/en/thumb/5/50/Cloud_Strife_art.jpg/500px-Cloud_Strife_art.jpg
-   :target: http://upload.wikimedia.org/wikipedia/en/thumb/5/50/Cloud_Strife_art.jpg/500px-Cloud_Strife_art.jpg
+.. figure:: /_static/pictures/japanexpo2008/cloud.jpg
    :align: center
 
    Le vrai Cloud
@@ -213,8 +211,7 @@ Un moment, mon cousin me téléphone. Pourquoi ?
 
    Cosplay de Misa, de *Death Note*
 
-.. figure:: http://www.adintrend.com/upload_img/c13911.jpg
-   :target: http://www.adintrend.com/upload_img/c13911.jpg
+.. figure:: /_static/pictures/japanexpo2007/22b-misa.jpg
    :align: center
 
    La vraie Misa
@@ -317,8 +314,7 @@ On a fait une partie de mah-jong avec mon cousin et deux animateurs (j'ai appris
 
    Cosplay de Alucard, de *Hellsing*
 
-.. figure:: http://www.advfilms.co.uk/titles/hellsing/images/operatives/alucard01.gif
-   :target: http://www.advfilms.co.uk/titles/hellsing/images/operatives/alucard01.gif
+.. figure:: /_static/pictures/japanexpo2008/alucard.gif
    :align: center
 
    Le vrai Alucard
@@ -335,8 +331,7 @@ On a fait une partie de mah-jong avec mon cousin et deux animateurs (j'ai appris
 
    Cosplay de Haruhi Suzumiya, dans *La mélancolie d'Haruhi Suzumiya*
 
-.. figure:: http://doanimation.files.wordpress.com/2007/09/haruhicroped.jpg
-   :target: http://doanimation.files.wordpress.com/2007/09/haruhicroped.jpg
+.. figure:: /_static/pictures/japanexpo2008/haruhi.jpg
    :align: center
 
    La vraie Haruhi Suzumiya
@@ -442,7 +437,7 @@ Et là que me rappelé-je ?
    :target: /_static/pictures/japanexpo2008/jane.jpg
    :align: center
 
-	Chhhuttt ! Pas si fort ! J'ai dit que je ne regardais pas *Nolife*.
+   Chhhuttt ! Pas si fort ! J'ai dit que je ne regardais pas *Nolife*.
 
 .. figure:: /_static/pictures/japanexpo2008/29-gotohwanjane-s.jpg
    :target: /_static/pictures/japanexpo2008/29-gotohwanjane.jpg

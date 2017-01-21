@@ -35,7 +35,7 @@ On a essayé le DDR, avec Laurent, le dimanche. J'aurai la vidéo sous peu.
    :target: /_static/pictures/japanexpo2007/06-sakaguchi3.jpg
    :align: center
    
-   M. Hironobu Sakaguchi, créateur de *Final Fantasy*
+   M\. Hironobu Sakaguchi, créateur de *Final Fantasy*
 
 .. figure:: /_static/pictures/japanexpo2007/09-sakaguchi6-s.jpg
    :target: /_static/pictures/japanexpo2007/09-sakaguchi6.jpg
@@ -110,8 +110,7 @@ Lui je l'ai croisé de nombreuses fois. Il portait un panneau sur lequel était 
    
    Cosplay de Misa
 
-.. figure:: http://www.adintrend.com/upload_img/c13911.jpg
-   :target: http://www.adintrend.com/upload_img/c13911.jpg
+.. figure:: /_static/pictures/japanexpo2007/22b-misa.jpg
    :align: center
    
    La vraie Misa

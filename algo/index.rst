@@ -3,6 +3,9 @@ Problèmes d'algorithmique
 
 Avec `Christoph Dürr <http://www-desir.lip6.fr/~durrc/>`_, j'anime le site `TryAlgo <http://tryalgo.org>`_, qui regorge de problèmes algorithmiques.
 
+.. contents:: Table des matières
+   :local:
+   :backlinks: none
 
 Apprendre à coder
 -----------------

@@ -11,6 +11,14 @@ I am the pianist of `Trio ELM <http://trioelm.com>`_: we perform `anime music <h
 
 `Listen to our videos on YouTube! <https://www.youtube.com/c/trioelm>`_
 
+YouTube videos
+--------------
+
+.. toctree::
+   :maxdepth: 1
+
+   ../youtube/index
+
 JJ's Anime sheet music
 ----------------------
 

@@ -13,8 +13,13 @@ En avril 2017, je serai chercheur postdoctoral au laboratoire `RIKEN <http://www
 
 Actuellement, je suis consultant au ministère de l'Éducation nationale sur le `projet PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques, dans le cadre des `Startups d'État <http://beta.gouv.fr>`_.
 
+.. toctree::
+   :hidden:
+
+   events/index
+
 - `My résumé </_static/résumé.pdf>`_ (`en </_static/résumé.pdf>`_ / `fr </_static/CV.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_)
-- `Ma thèse <http://jiji.cat>`_
+- `Ma thèse en Markdown <http://jiji.cat>`_
 - `Mes projets sur GitHub <https://github.com/jilljenn/>`_
 
 .. raw:: html
@@ -45,10 +50,20 @@ Recherche
    Recommandation de films <research/index>
    works/index
 
-.. toctree::
-   :maxdepth: 2
 
-   conferences/index
+Conférences
+-----------
+
+Sénat, inspection générale de mathématiques, MFG Labs, Science ouverte.
+
+- `Keep Calm and Blame the Algorithm <conferences/#keep-calm-and-blame-the-algorithm>`_
+- `Géométrie dans les jeux vidéo <conferences/#geometrie-dans-les-jeux-video>`_
+- `La Programmation dynamique de Richard Bellman <conferences/#la-programmation-dynamique-de-richard-bellman>`_
+
+.. toctree::
+   :hidden:
+
+   Toutes les conférences <conferences/index>
 
 
 Enseignement
@@ -61,7 +76,7 @@ Enseignement
 J'ai enseigné la `résolution de problèmes algorithmiques </algo/>`_ en Python à CentraleSupélec.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    algo/index
    agreg/index
@@ -78,21 +93,31 @@ Algo, `méta <http://club-meta.fr>`_, anime, musique, typo.
    :maxdepth: 2
 
    anime-sheet-music/index
-   cinema/index
-   dieux/index
 
 .. toctree::
-   :hidden:
+   :maxdepth: 1
 
-   events/index
+   cinema/index
+   dieux/index
+   vipere/index
+
+.. toctree::
+   :maxdepth: 2
+
+   pictures/index
+
+
+Inintérêts
+----------
+
+.. toctree::
+   :maxdepth: 2
+
+   demotivators/index
    quotes/index
 
 .. toctree::
    :hidden:
 
-   demotivators/index
-   pictures/index
-   youtube/index
-   vipere/index
    notes/index
    404

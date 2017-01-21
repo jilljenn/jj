@@ -182,7 +182,7 @@ Je me disais que l'entrée du bâtiment ne serait pas loin, et pourtant...
    :target: /_static/pictures/paris/x2.jpg
    :align: right
 
-    L'X - Entrée principale
+   L'X - Entrée principale
 
 En tout cas, c'est vraiment grand.
 

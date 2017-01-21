@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Requests documentation build configuration file, created by
+# Le_Sphinx build configuration file, created by
 # sphinx-quickstart on Sun Feb 13 23:54:25 2011.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -18,8 +18,6 @@ import sys, os
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 sys.path.insert(0, os.path.abspath('..'))
 sys.path.append(os.path.abspath('exts'))
-import requests
-from requests import __version__
 
 # -- General configuration -----------------------------------------------------
 
@@ -56,7 +54,7 @@ copyright = u'2015–2017. Jill-Jênn Vie'
 # built documents.
 #
 # The short X.Y version.
-version = __version__
+version = '2.1'
 # The full version, including alpha/beta/rc tags.
 release = version
 
@@ -154,7 +152,7 @@ html_sidebars = {
 #html_domain_indices = True
 
 # If false, no index is generated.
-#html_use_index = True
+html_use_index = False
 
 # If true, the index is split into individual pages for each letter.
 #html_split_index = False
@@ -177,7 +175,7 @@ html_show_sphinx = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Requestsdoc'
+htmlhelp_basename = 'jjvdoc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -191,8 +189,8 @@ htmlhelp_basename = 'Requestsdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Requests.tex', u'Requests Documentation',
-   u'Kenneth Reitz', 'manual'),
+  ('index', 'jjv.tex', u'Le_Sphinx',
+   u'Jill-Jênn Vie', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -224,8 +222,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'requests', u'Requests Documentation',
-     [u'Kenneth Reitz'], 1)
+    ('index', 'jjv', u'Le_Sphinx',
+     [u'Jill-Jênn Vie'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -237,8 +235,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Requests', u'Requests Documentation', u'Kenneth Reitz',
-   'Requests', 'One line description of project.', 'Miscellaneous'),
+  ('index', 'JJV', u'Le_Sphinx', u'Jill-Jênn Vie',
+   'JJV', 'Jill-Jênn Vie', 'Page web'),
 ]
 
 # Documents to append as an appendix to all manuals.
