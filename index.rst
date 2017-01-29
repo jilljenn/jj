@@ -1,14 +1,14 @@
 Jill-Jênn Vie
 =============
 
-.. figure:: /_static/riken.gif
+.. figure:: /_static/riken.png
    :align: right
 
 Bienvenue ! Je suis féru d'`algorithmique <http://tryalgo.org>`_ et de `culture japonaise <https://mangaki.fr>`_.
 
 En avril 2017, je serai chercheur postdoctoral au laboratoire `RIKEN <http://www.riken.jp/en/research/labs/aip/>`_ à Tokyo, sous la direction de `Hisashi Kashima <http://www.geocities.co.jp/Technopolis/5893/index_e.html>`_, professeur à l'université de Kyoto.
 
-.. image:: /_static/pix.svg
+.. image:: /_static/pix.png
    :align: right
 
 Actuellement, je suis consultant au ministère de l'Éducation nationale sur le `projet PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques, dans le cadre des `Startups d'État <http://beta.gouv.fr>`_.
@@ -18,7 +18,7 @@ Actuellement, je suis consultant au ministère de l'Éducation nationale sur le 
 
    events/index
 
-- `My résumé </_static/résumé.pdf>`_ (`en </_static/résumé.pdf>`_ / `fr </_static/CV.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_)
+- `My résumé </_static/résumé.pdf>`_ / `Mon CV en français </_static/CV.pdf>`_ / Profil `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 - `Ma thèse en Markdown <http://jiji.cat>`_
 - `Mes projets sur GitHub <https://github.com/jilljenn/>`_
 

@@ -189,7 +189,7 @@ htmlhelp_basename = 'jjvdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'jjv.tex', u'Le_Sphinx',
+  ('index', 'jjv.tex', u'Le\_Sphinx',
    u'Jill-Jênn Vie', 'manual'),
 ]
 

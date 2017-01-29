@@ -314,7 +314,7 @@ On a fait une partie de mah-jong avec mon cousin et deux animateurs (j'ai appris
 
    Cosplay de Alucard, de *Hellsing*
 
-.. figure:: /_static/pictures/japanexpo2008/alucard.gif
+.. figure:: /_static/pictures/japanexpo2008/alucard.png
    :align: center
 
    Le vrai Alucard
