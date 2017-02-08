@@ -1,6 +1,22 @@
 Présentations
 =============
 
+.. contents:: Sujets
+   :local:
+   :backlinks: none
+
+Tests adaptatifs de positionnement dans PIX
+-------------------------------------------
+
+Au Congrès de la Société informatique de France, en février 2017.
+
+Comment tirer du parti d'une interface qui peut choisir la question suivante en fonction de la performance du candidat, pour réduire le nombre de questions d'un test de positionnement ? Application de ma thèse au projet PIX de certification des compétences numériques porté par le ministère de l'Éducation nationale.
+
+- `Slides pix.pdf <pix.pdf>`_
+- `Projet PIX : pix.beta.gouv.fr <https://pix.beta.gouv.fr>`_
+- `Code source de PIX <https://github.com/sgmap/pix/>`_ sur GitHub
+
+
 Algorithmes et intelligence artificielle, au Sénat
 --------------------------------------------------
 
