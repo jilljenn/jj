@@ -38,20 +38,20 @@ Prologin
 
 Ouvert aux jeunes de 20 ans et moins : d'octobre à mai. Les sujets écrits des épreuves régionales couvrent des domaines variés de l'informatique théorique, par exemple :
 
-- *amidakuji* : `The Final Problem <http://prologin.org/files/archives/2012/demi-finales/sujet/the-final-problem.pdf>`_ (+ `vidéo d'introduction <a href="http://youtu.be/VczJBIjPXds>`_, activez les sous-titres)
-- algorithme du lièvre et de la tortue : `The Two-Ring Machine <http://prologin.org/files/archives/2013/demi-finales/sujet/two-ring-machine.pdf>`_
-- 2-approximation du voyageur de commerce : `Distributions tempérées <http://prologin.org/files/archives/2014/demi-finales/sujet/distributions.pdf>`_
-- jeux sur les arbres : `Quart de singe <http://prologin.org/files/archives/2012/demi-finales/sujet/quart-de-singe-bordeaux.pdf>`_
-- contamination dans les arbres : `The Game <http://prologin.org/files/archives/2011/demi-finales/sujet/the-game.pdf>`_
-- graphes dans certains jeux Nintendo : `Dance floor <http://prologin.org/files/archives/2011/demi-finales/sujet/dance-floor.pdf>`_
-- algorithmes streaming : `Prologin Plays Pokémon <http://prologin.org/files/archives/2014/demi-finales/sujet/prologinplayspokemon.pdf>`_
-- bin packing : `Death Note <http://prologin.org/files/archives/2012/demi-finales/sujet/death-note.pdf>`_
-- ordonnancement de tâches : `The Shining <http://prologin.org/files/archives/2011/demi-finales/sujet/the-shining.pdf>`_
-- couverture minimale : `MRKRPXZKRMTFRZ <http://prologin.org/files/archives/2012/demi-finales/sujet/mrkrpxzkrmtfrz.pdf>`_
-- code de Huffman : `The Marchand Identity <http://prologin.org/files/archives/2013/demi-finales/sujet/marchand-identity.pdf>`_
-- arbre couvrant minimal distribué : `The Imitation Game <http://prologin.org/files/archives/2013/demi-finales/sujet/the-imitation-game.pdf>`_
-- à composante historique : `Enigma <http://prologin.org/files/archives/2013/demi-finales/sujet/enigma.pdf>`_
-- d'autres problèmes en vrac : `MinisterMind <http://prologin.org/files/archives/2013/demi-finales/sujet/ministermind.pdf>`_, `Comic-Con <http://prologin.org/files/archives/2012/demi-finales/sujet/comic-con.pdf>`_, `Memento Somniare <http://prologin.org/files/archives/2011/demi-finales/sujet/memento-somniare.pdf>`_
+- *amidakuji* : `The Final Problem <http://prologin.org/static/archives/2012/demi-finales/sujet/the-final-problem.pdf>`_ (+ `vidéo d'introduction <a href="http://youtu.be/VczJBIjPXds>`_, activez les sous-titres)
+- algorithme du lièvre et de la tortue : `The Two-Ring Machine <http://prologin.org/static/archives/2013/demi-finales/sujet/two-ring-machine.pdf>`_
+- 2-approximation du voyageur de commerce : `Distributions tempérées <http://prologin.org/static/archives/2014/demi-finales/sujet/distributions.pdf>`_
+- jeux sur les arbres : `Quart de singe <http://prologin.org/static/archives/2012/demi-finales/sujet/quart-de-singe-bordeaux.pdf>`_
+- contamination dans les arbres : `The Game <http://prologin.org/static/archives/2011/demi-finales/sujet/the-game.pdf>`_
+- graphes dans certains jeux Nintendo : `Dance floor <http://prologin.org/static/archives/2011/demi-finales/sujet/dance-floor.pdf>`_
+- algorithmes streaming : `Prologin Plays Pokémon <http://prologin.org/static/archives/2014/demi-finales/sujet/prologinplayspokemon.pdf>`_
+- bin packing : `Death Note <http://prologin.org/static/archives/2012/demi-finales/sujet/death-note.pdf>`_
+- ordonnancement de tâches : `The Shining <http://prologin.org/static/archives/2011/demi-finales/sujet/the-shining.pdf>`_
+- couverture minimale : `MRKRPXZKRMTFRZ <http://prologin.org/static/archives/2012/demi-finales/sujet/mrkrpxzkrmtfrz.pdf>`_
+- code de Huffman : `The Marchand Identity <http://prologin.org/static/archives/2013/demi-finales/sujet/marchand-identity.pdf>`_
+- arbre couvrant minimal distribué : `The Imitation Game <http://prologin.org/static/archives/2013/demi-finales/sujet/the-imitation-game.pdf>`_
+- à composante historique : `Enigma <http://prologin.org/static/archives/2013/demi-finales/sujet/enigma.pdf>`_
+- d'autres problèmes en vrac : `MinisterMind <http://prologin.org/static/archives/2013/demi-finales/sujet/ministermind.pdf>`_, `Comic-Con <http://prologin.org/static/archives/2012/demi-finales/sujet/comic-con.pdf>`_, `Memento Somniare <http://prologin.org/static/archives/2011/demi-finales/sujet/memento-somniare.pdf>`_
 
 ACM/ICPC
 ::::::::
