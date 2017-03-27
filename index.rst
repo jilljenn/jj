@@ -6,42 +6,33 @@ Jill-Jênn Vie
 
 Bienvenue ! Je suis féru d'`algorithmique <http://tryalgo.org>`_ et de `culture japonaise <https://mangaki.fr>`_.
 
-En avril 2017, je serai chercheur postdoctoral au laboratoire `RIKEN <http://www.riken.jp/en/research/labs/aip/>`_ à Tokyo, sous la direction de `Hisashi Kashima <http://www.geocities.co.jp/Technopolis/5893/index_e.html>`_, professeur à l'université de Kyoto.
+Je suis **chercheur postdoctoral** au laboratoire `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ à Tokyo, sous la direction de `Hisashi Kashima <http://www.geocities.co.jp/Technopolis/5893/index_e.html>`_, professeur à l'université de Kyoto.
 
 .. image:: /_static/pix.png
    :align: right
 
-Actuellement, je suis consultant au ministère de l'Éducation nationale sur le `projet PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques, dans le cadre des `Startups d'État <http://beta.gouv.fr>`_.
+Je suis aussi **consultant au ministère de l'Éducation nationale** sur le `projet PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques, dans le cadre des `Startups d'État <http://beta.gouv.fr>`_. Je serai à `Learning at Scale 2017 <http://learningatscale.acm.org/las2017/>`_.
 
 .. toctree::
    :hidden:
 
    events/index
 
-- `My résumé </_static/résumé.pdf>`_ / `Mon CV en français </_static/CV.pdf>`_ / Profil `Stack Overflow <https://stackoverflow.com/cv/jj>`_
-- `Ma thèse en Markdown <http://jiji.cat>`_
+- `Mon CV en français </_static/CV.pdf>`_
+   - `in English </_static/résumé.pdf>`_
+   - sur `Stack Overflow <https://stackoverflow.com/cv/jj>`_.
 - `Mes projets sur GitHub <https://github.com/jilljenn/>`_
-
-.. raw:: html
-
-   <div style="display: flex; flex-direction: row; flex-wrap: wrap">
-      <figure>
-         <a href="https://mangaki.fr"><img src="/_static/mangaki.png" alt="Mangaki" alt="Mangaki" title="Mangaki, site de recommandation de mangas et d'anime" />
-         <figcaption>Mangaki</figcaption></a>
-      </figure>
-      <figure>
-         <a href="http://trioelm.com"><img src="/_static/trioelm.png" alt="Trio ELM" title="Trio ELM, reprises de musiques d'anime" />
-         <figcaption>Trio ELM</figcaption></a>
-      </figure>
-      <figure>
-         <a href="http://fautealgo.fr"><img src="/_static/fautealgo.png" alt="La Faute à l'algo" title="La Faute à l'algo, émission sur Nolife" />
-         <figcaption>La Faute à l'algo</figcaption></a>
-      </figure>
-   </div>
-
+   - le couteau suisse d'algorithmes Python : `pip install tryalgo <https://github.com/jilljenn/tryalgo>`_
+   - `ma thèse en Markdown <https://github.com/jilljenn/phd>`_.
 
 Recherche
 ---------
+
+J'étudie des modèles d'apprentissage statistique (*machine learning*, *réponse à l'item*) sur des données principalement issues de plateformes éducatives (cours en ligne, PIX).
+
+.. image:: /_static/mangaki.png
+   :align: right
+   :target: https://mangaki.fr
 
 .. toctree::
    :maxdepth: 1
@@ -50,14 +41,23 @@ Recherche
    Recommandation de films <research/index>
    works/index
 
+`Mangaki <https://mangaki.fr>`_ est une association à but non lucratif qui remplit un double objectif :
+
+- recommander des perles rares de la culture japonaise ;
+- faire découvrir la science derrière les algorithmes de recommandation.
+
 
 Conférences
 -----------
 
-Sénat, inspection générale de mathématiques, MFG Labs, Science ouverte.
+Sénat, X, inspection générale de mathématiques.
+
+.. image:: /_static/fautealgo.png
+   :align: right
+   :target: http://fautealgo.fr
 
 - `Keep Calm and Blame the Algorithm <conferences/#keep-calm-and-blame-the-algorithm>`_
-- `Géométrie dans les jeux vidéo <conferences/#geometrie-dans-les-jeux-video>`_
+- `Géométrie dans les jeux vidéo (collège) <conferences/#geometrie-dans-les-jeux-video>`_
 - `La Programmation dynamique de Richard Bellman <conferences/#la-programmation-dynamique-de-richard-bellman>`_
 
 .. toctree::
@@ -65,11 +65,13 @@ Sénat, inspection générale de mathématiques, MFG Labs, Science ouverte.
 
    Toutes les conférences <conferences/index>
 
+Avec Michel Blockelet, nous avons réalisé l'émission `La Faute à l'algo <http://fautealgo.fr>`_ sur Nolife : 23 épisodes de 6 minutes sur les algorithmes qui prennent une place de plus en plus importante dans nos vies.
 
-Enseignement
-------------
 
-.. figure:: /_static/viedurr.jpg
+Enseignement de l'informatique
+------------------------------
+
+.. image:: /_static/viedurr.jpg
    :align: right
    :target: http://tryalgo.org/book
 
@@ -88,6 +90,12 @@ Intérêts
 --------
 
 Algo, `méta <http://club-meta.fr>`_, anime, musique, typo.
+
+.. figure:: /_static/trioelm.png
+   :align: right
+   :target: http://trioelm.com
+
+   `Trio ELM <http://trioelm.com>`_
 
 .. toctree::
    :maxdepth: 2
