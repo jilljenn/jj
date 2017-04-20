@@ -4,6 +4,8 @@ Jill-Jênn Vie
 .. figure:: /_static/riken.png
    :align: right
 
+(also `in English <https://jilljenn.github.io>`_)
+
 Bienvenue ! Je suis féru d'`algorithmique <http://tryalgo.org>`_ et de `culture japonaise <https://mangaki.fr>`_.
 
 Je suis **chercheur postdoctoral** au laboratoire `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ à Tokyo, sous la direction de `Hisashi Kashima <http://www.geocities.co.jp/Technopolis/5893/index_e.html>`_, professeur à l'université de Kyoto.
