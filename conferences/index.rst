@@ -5,6 +5,17 @@ Présentations
    :local:
    :backlinks: none
 
+Introduce AI to kids? It's possible!
+------------------------------------
+
+À `PyParis <http://pyparis.org>`_, en juin 2017.
+
+Génération automatique de phrases, programmation de bots pour des jeux simples, recommandation des films : nous présentons ici 3 années de projets liés à l'intelligence artificielle pour des jeunes de 12 à 19 ans. Et vous ? Parviendrez-vous à concevoir des activités sympa pour des enfants ?
+
+- `Slides ai4kids.pdf <ai4kids.pdf>`_
+- `Code source de markov.py <https://github.com/jilljenn/markov.py>`_ sur GitHub
+
+
 Tests adaptatifs de positionnement dans PIX
 -------------------------------------------
 
