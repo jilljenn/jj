@@ -174,5 +174,5 @@ Challenges
 - Vous souhaitez évaluer vos compétences numériques ? → `PIX <https://pix.beta.gouv.fr>`_
 - Vous participez à des concours de programmation ? `→ TryAlgo <http://tryalgo.org>`_
 - Vous passez les concours d'informatique des grandes écoles ? `→ Les clés pour l'info <https://www.amazon.fr/clés-pour-lInfo-ENS-Agrégation/dp/2916352651>`_
-- Vous passez l'agrégation de mathématiques ? `→ Ressources <agreg/index>`_
+- Vous passez l'agrégation de mathématiques ? `→ Ressources </agreg/>`_
 - Vous cherchez une partition de musique difficile ? `Touhou </anime-sheet-music/touhou-koumakyou-the-embodiment-of-scarlet-devil/lunar-clock-luna-dial.html>`_ ou `Kapustin <https://www.youtube.com/watch?v=9FvzPVofjyU>`_
