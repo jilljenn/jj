@@ -9,11 +9,13 @@ Jill-Jênn Vie
    :align: right
    :target: http://research.mangaki.fr
 
-Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_, de :abbr:`ML (machine learning)` et de `culture manga <https://mangaki.fr>`_.
+Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_ et de `culture manga <https://mangaki.fr>`_.
 
-**News :** Nous organisons cet été un `data challenge <http://research.mangaki.fr>`_ avec l'association `Mangaki <https://mangaki.fr>`_ et le `Kashima Lab <http://www.ml.ist.i.kyoto-u.ac.jp/en/>`_ de l'université de Kyoto. `Le but <http://research.mangaki.fr>`_ : prédire les goûts de gens en matière de manga ou de séries animées japonaises. `Participez ! <http://research.mangaki.fr>`_
+**News :** Nous organisons cet été un `data challenge <http://research.mangaki.fr>`_ avec `Mangaki <https://mangaki.fr>`_ et le `Kashima Lab <http://www.ml.ist.i.kyoto-u.ac.jp/en/>`_ de l'université de Kyoto. `Le but <http://research.mangaki.fr>`_ : prédire les goûts de gens en matière de manga ou de séries animées japonaises. `Participez ! <http://research.mangaki.fr>`_
 
-Je suis **chercheur** au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ de Tokyo sous la direction de `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_ (professeur à l'université de Kyoto `♥ <https://trello.com/b/IHxf49PO/2015-japan-december-and-new-year>`_). Je suis également **data scientist** sur le `projet public PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques. (`CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_)
+Je suis **chercheur** au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_ (université de Kyoto `♥ <https://trello.com/b/IHxf49PO/2015-japan-december-and-new-year>`_) en *learning analytics* et *crowdsourcing*. Je travaille aussi sur le `projet public PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques.
+
+`CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
 .. toctree::
    :hidden:
@@ -26,11 +28,11 @@ Fait
 
 .. _Mangaki: https://mangaki.fr
 
-- `2 livres <http://tryalgo.org/book>`_ dont 1 `package Python <https://github.com/jilljenn/tryalgo>`_ de 128 algorithmes sur GitHub
+- `2 livres <http://tryalgo.org/book>`_ dont `tryalgo <https://github.com/jilljenn/tryalgo>`_ : 128 algorithmes sur GitHub
 - 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_
-- 1 dataset de `350000 ratings de mangas <http://research.mangaki.fr>`_ : `Mangaki`_
-- 3 projets gouvernementaux : `certification PIX <https://github.com/sgmap/pix>`_ / `rapport Etalab <https://www.data.gouv.fr/s/resources/rapport-sur-les-conditions-douverture-du-systeme-admission-post-bac/20170421-101632/20170420_Rapport-Etalab-missionAPB-VF.pdf>`_ sur l'ouverture APB / `rapport du Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_ sur l'IA
-- `1 thèse d'informatique en Markdown <https://github.com/jilljenn/phd>`_
+- `350000 ratings de mangas <http://research.mangaki.fr>`_ en open data : `Mangaki`_
+- 3 projets gouvernementaux : `PIX <https://github.com/sgmap/pix>`_ / `ouverture APB (Etalab) <https://www.data.gouv.fr/s/resources/rapport-sur-les-conditions-douverture-du-systeme-admission-post-bac/20170421-101632/20170420_Rapport-Etalab-missionAPB-VF.pdf>`_ / `IA (Sénat) <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
+- `1 thèse en Markdown <https://github.com/jilljenn/phd>`_
 - s'infiltrer à `Pixar Animation Studios <https://goo.gl/photos/hHv7HWDx5EZWfEtXA>`_
 
 
@@ -42,7 +44,7 @@ Fait
    :target: https://www.youtube.com/watch?v=VykHhf7D6vc
 
 - jouer toutes les Études de concert de Kapustin (seulement `1/8 <https://www.youtube.com/watch?v=VykHhf7D6vc&spfreload=10>`_ pour l'instant)
-- finir *Ubik* de Philip K. Dick
+- écrire une proposition de scénario pour *Ubik* de Philip K. Dick et la soumettre à Michel Gondry
 - lire *Gaspard of the Morning* de Yasutaka Tsutsui
 - ne pas perdre mon agrég' de maths (= running gag)
 
