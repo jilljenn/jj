@@ -36,8 +36,12 @@ Publications dans des actes de conférence
 Posters, workshops, démos, WIP
 ::::::::::::::::::::::::::::::
 
+.. figure:: /_static/works/poster-las2017.png
+   :align: right
+   :target: https://github.com/jilljenn/las2017-wip/blob/master/poster-las2017.pdf
+
 - `A Heuristic Method for Large-Scale Cognitive-Diagnostic Computerized Adaptive Testing </_static/works/a-heuristic-method-for-large-scale-cognitive-diagnostic-computerized-adaptive-testing.pdf>`_
-    avec Fabrice Popineau, Françoise Tort, Benjamin Marteau et Nathalie Denos. WIP soumis à Learning at Scale 2017.
+    avec Fabrice Popineau, Françoise Tort, Benjamin Marteau et Nathalie Denos. WIP accepté à Learning at Scale 2017. `[poster] <https://github.com/jilljenn/las2017-wip/blob/master/poster-las2017.pdf>`_
 
 - `PIX: A Platform for Certification of Digital Competencies </_static/works/pix-a-platform-for-certification-of-digital-competencies.pdf>`_
     avec Benjamin Marteau, Nathalie Denos et Françoise Tort. Démo soumise à Learning at Scale 2017.

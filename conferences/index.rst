@@ -5,6 +5,17 @@ Présentations
    :local:
    :backlinks: none
 
+
+Multistage Testing using Determinantal Point Processes
+------------------------------------------------------
+
+À `IACAT 2017 <http://iacat.org>`_, Niigata, août 2017.
+
+- `Slides <iacat2017.pdf>`_
+- `Code <https://github.com/jilljenn/qna>`_ des benchmarks
+- Vidéo (soon)
+
+
 Introduce AI to kids? It's possible!
 ------------------------------------
 
@@ -13,6 +24,7 @@ Introduce AI to kids? It's possible!
 Génération automatique de phrases, programmation de bots pour des jeux simples, recommandation des films : nous présentons ici 3 années de projets liés à l'intelligence artificielle pour des jeunes de 12 à 19 ans. Et vous ? Parviendrez-vous à concevoir des activités sympa pour des enfants ?
 
 - `Slides ai4kids.pdf <ai4kids.pdf>`_
+- `Video <https://www.youtube.com/watch?v=fG7YFTBZpQY&t=214s&spfreload=10>`_
 - `Code source de markov.py <https://github.com/jilljenn/markov.py>`_ sur GitHub
 
 

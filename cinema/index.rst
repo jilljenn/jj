@@ -7,25 +7,30 @@ Films à voir
 - **Dans ses yeux** (*El secreto de sus ojos*), à mon avis le meilleur film de tous les temps, objectivement. Oscar du meilleur film étranger 2010.
 - **Oldboy**, un scénario coréen à glacer le sang et la meilleure musique que j'aie jamais entendue dans un film.
 - **L'Armée des douze singes** (*12 Monkeys*), un film de SF au scénario génial inspiré du moyen-métrage français *La Jetée*, de Chris Marker.
-- **Paprika**, un film d'animation japonais visuellement époustouflant sur une machine qui permet de s'infiltrer dans les rêves.
+- **Paprika** `パプリカ <https://mangaki.fr/anime/324>`_, un film d'animation japonais visuellement époustouflant sur une machine qui permet de s'infiltrer dans les rêves.
 - **Gattaca**, un des trop rares bons films d'Andrew Niccol.
 
 
 Mon top 7
 ---------
 
-1. *The Social Network*
-2. *Les Enfants loups, Ame & Yuki* おおかみこどもの雨と雪
+1. *Fireworks* `打ち上げ花火、下から見るか？横から見るか？ <https://mangaki.fr/anime/18331>`_
+2. *Les Enfants loups, Ame & Yuki* `おおかみこどもの雨と雪 <https://mangaki.fr/anime/591>`_
 3. *El secreto de sus ojos*
-4. *Millennium Actress* 千年女優
-5. *12 Monkeys*
+4. *12 Monkeys*
+5. *Millennium Actress* `千年女優 <https://mangaki.fr/anime/325>`_
 6. *Oldboy*
-7. *Le Vent se lève* 風立ちぬ
+7. *Cowboy Bebop: Knockin' on Heaven's Door* `カウボーイビバップ 天国の扉 <https://mangaki.fr/anime/3405>`_
+8. *Léon: The Professional*
+9. *Porco Rosso* `紅の豚 <https://mangaki.fr/anime/410>`_
+10. *Le Vent se lève* `風立ちぬ <https://mangaki.fr/anime/958>`_
+11. *Mommy*
+12. *Redline* `REDLINE <https://mangaki.fr/anime/959>`_
 
 Mention particulière pour les deux claques en animation japonaise que j'ai vues :
 
-- *Rebellion* 劇場版 魔法少女まどか☆マギカ 叛逆の物語
-- *La Disparition de Haruhi Suzumiya* 涼宮ハルヒの消失
+- *Rebellion* `劇場版 魔法少女まどか☆マギカ 叛逆の物語 <https://mangaki.fr/anime/176>`_
+- *La Disparition de Haruhi Suzumiya* `涼宮ハルヒの消失 <https://mangaki.fr/anime/110>`_
 
 Mais ce sont des suites de séries donc il vous faudra regarder d'abord *Madoka Magica* et *La Mélancolie de Haruhi Suzumiya*.
 
