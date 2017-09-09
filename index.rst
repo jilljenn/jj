@@ -11,7 +11,9 @@ Jill-Jênn Vie
 
 Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_ et de `culture manga <https://mangaki.fr>`_.
 
-**News :** Nous organisons cet été un `data challenge <http://research.mangaki.fr>`_ avec `Mangaki <https://mangaki.fr>`_ et le `Kashima Lab <http://www.ml.ist.i.kyoto-u.ac.jp/en/>`_ de l'université de Kyoto. `Le but <http://research.mangaki.fr>`_ : prédire les goûts de gens en matière de manga ou de séries animées japonaises. `Participez ! <http://research.mangaki.fr>`_
+**News :** Participez au `Mangaki Data Challenge <http://research.mangaki.fr>`_ jusqu'au 1er octobre ! Le but : prédire les goûts de gens en manga ou anime. Lots à gagner :-)
+
+**Notre article** `BALSE <https://arxiv.org/abs/1709.01584>`_ est sur arXiv ! Accepté à `MANPU 2017 <http://manpu2017.imlab.jp>`_ à Kyoto.
 
 Je suis **chercheur** au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_ (université de Kyoto `♥ <https://trello.com/b/IHxf49PO/2015-japan-december-and-new-year>`_) en *learning analytics* et *crowdsourcing*. Je travaille aussi sur le `projet public PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques.
 
@@ -27,11 +29,12 @@ Fait
 ----
 
 .. _Mangaki: https://mangaki.fr
+.. _PIX: https://pix.beta.gouv.fr
 
 - `2 livres <http://tryalgo.org/book>`_ dont `tryalgo <https://github.com/jilljenn/tryalgo>`_ : 128 algorithmes sur GitHub
 - 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_
 - `350000 ratings de mangas <http://research.mangaki.fr>`_ en open data : `Mangaki`_
-- 3 projets gouvernementaux : `PIX <https://github.com/sgmap/pix>`_ / `ouverture APB (Etalab) <https://www.data.gouv.fr/s/resources/rapport-sur-les-conditions-douverture-du-systeme-admission-post-bac/20170421-101632/20170420_Rapport-Etalab-missionAPB-VF.pdf>`_ / `IA (Sénat) <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
+- 3 projets gouvernementaux : `PIX`_ / `ouverture APB (Etalab) <https://www.data.gouv.fr/s/resources/rapport-sur-les-conditions-douverture-du-systeme-admission-post-bac/20170421-101632/20170420_Rapport-Etalab-missionAPB-VF.pdf>`_ / `IA (Sénat) <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
 - `1 thèse en Markdown <https://github.com/jilljenn/phd>`_
 - s'infiltrer à `Pixar Animation Studios <https://goo.gl/photos/hHv7HWDx5EZWfEtXA>`_
 
@@ -173,7 +176,7 @@ Challenges
 ----------
 
 - Vous souhaitez tester vos capacités en machine learning ? `→ Mangaki Challenge <http://research.mangaki.fr>`_
-- Vous souhaitez évaluer vos compétences numériques ? → `PIX <https://pix.beta.gouv.fr>`_
+- Vous souhaitez évaluer vos compétences numériques ? → `PIX`_
 - Vous participez à des concours de programmation ? `→ TryAlgo <http://tryalgo.org>`_
 - Vous passez les concours d'informatique des grandes écoles ? `→ Les clés pour l'info <https://www.amazon.fr/clés-pour-lInfo-ENS-Agrégation/dp/2916352651>`_
 - Vous passez l'agrégation de mathématiques ? `→ Ressources </agreg/>`_

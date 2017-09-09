@@ -1,6 +1,8 @@
 Sujets de recherche
 ===================
 
+My research in English: https://jilljenn.github.io
+
 Tests adaptatifs
 ----------------
 
