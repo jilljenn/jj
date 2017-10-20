@@ -11,11 +11,7 @@ Jill-Jênn Vie
 
 Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_ et de `culture manga <https://mangaki.fr>`_.
 
-**News :** Participez au `Mangaki Data Challenge <http://research.mangaki.fr>`_ jusqu'au 1er octobre ! Le but : prédire les goûts de gens en manga ou anime. Lots à gagner :-)
-
-**Notre article** `BALSE <https://arxiv.org/abs/1709.01584>`_ est sur arXiv ! Accepté à `MANPU 2017 <http://manpu2017.imlab.jp>`_ à Kyoto.
-
-Je suis **chercheur** au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_ (université de Kyoto `♥ <https://trello.com/b/IHxf49PO/2015-japan-december-and-new-year>`_) en *learning analytics* et *crowdsourcing*. Je travaille aussi sur le `projet public PIX <https://pix.beta.gouv.fr>`_ de certification des compétences numériques.
+Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_. En parallèle, j'écris du code libre pour `l'État <https://pix.beta.gouv.fr>`_.
 
 `CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
@@ -31,65 +27,69 @@ Fait
 .. _Mangaki: https://mangaki.fr
 .. _PIX: https://pix.beta.gouv.fr
 
-- `2 livres <http://tryalgo.org/book>`_ dont `tryalgo <https://github.com/jilljenn/tryalgo>`_ : 128 algorithmes sur GitHub
-- 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_
-- `350000 ratings de mangas <http://research.mangaki.fr>`_ en open data : `Mangaki`_
+- `2 livres <http://tryalgo.org/book>`_ sur les algorithmes + 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ : 128 algorithmes
+- 1 dataset de `350000 ratings de mangas <http://research.mangaki.fr>`_ + 1 `data challenge <http://research.mangaki.fr/2017/10/06/mangaki-data-challenge-winners-fr/>`_
 - 3 projets gouvernementaux : `PIX`_ / `ouverture APB (Etalab) <https://www.data.gouv.fr/s/resources/rapport-sur-les-conditions-douverture-du-systeme-admission-post-bac/20170421-101632/20170420_Rapport-Etalab-missionAPB-VF.pdf>`_ / `IA (Sénat) <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
-- `1 thèse en Markdown <https://github.com/jilljenn/phd>`_
+- 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_
 - s'infiltrer à `Pixar Animation Studios <https://goo.gl/photos/hHv7HWDx5EZWfEtXA>`_
 
 
 À faire
 -------
 
-.. image:: /_static/piano.jpg
-   :align: right
-   :target: https://www.youtube.com/watch?v=VykHhf7D6vc
+- jouer plus de Kapustin (`Etude 1 <https://www.youtube.com/watch?v=VykHhf7D6vc&spfreload=10>`_)
+- écrire un scénario pour *Ubik* + lire *Gaspard in the Morning* de Yasutaka Tsutsui
 
-- jouer toutes les Études de concert de Kapustin (seulement `1/8 <https://www.youtube.com/watch?v=VykHhf7D6vc&spfreload=10>`_ pour l'instant)
-- écrire une proposition de scénario pour *Ubik* de Philip K. Dick et la soumettre à Michel Gondry
-- lire *Gaspard of the Morning* de Yasutaka Tsutsui
-- ne pas perdre mon agrég' de maths (= running gag)
+
+Challenges
+----------
+
+- Vous souhaitez évaluer vos compétences numériques ? → `PIX`_
+- Vous participez à des concours de programmation ? `→ TryAlgo <http://tryalgo.org>`_
+- Vous passez les concours d'informatique des grandes écoles ? `→ Les clés pour l'info <https://www.amazon.fr/clés-pour-lInfo-ENS-Agrégation/dp/2916352651>`_
+- Vous passez l'agrégation de mathématiques ? `→ Ressources pour l'agrég' </agreg/>`_
+- Vous cherchez une partition de musique difficile ? `Touhou </anime-sheet-music/touhou-koumakyou-the-embodiment-of-scarlet-devil/lunar-clock-luna-dial.html>`_ ou `Kapustin <https://www.youtube.com/watch?v=9FvzPVofjyU>`_
 
 
 Recherche
 ---------
 
-J'étudie des modèles de :abbr:`ML (machine learning)` sur des données éducatives :
+J'étudie des modèles de machine learning sur des données éducatives :
 
    Comment personnaliser la séquence d'activités administrées à un apprenant pour le faire apprendre plus vite ?
 
 .. toctree::
    :maxdepth: 1
 
+   Ma thèse en Markdown <https://github.com/jilljenn/phd>
+   works/index
    Online matrix factorization <research/index>
    Sparse factor analysis <research/index>
    Crowdsourcing <research/index>
    Recommender systems <research/index>
-   works/index
 
-Toy project: Mangaki
-::::::::::::::::::::
+Si vous êtes intéressé par un de ces sujets, `contactez-moi <mailto:vie@jill-jenn.net>`_.
+
+Mangaki
+:::::::
 
 .. image:: /_static/mangaki.png
    :align: right
    :target: https://mangaki.fr
 
-- `Mangaki`_ vous recommande des perles rares de mangas ou anime en fonction de votre profil ;
-- et fait découvrir la `science <http://research.mangaki.fr>`_ derrière les algorithmes de recommandation (y compris `au lycée <https://github.com/mangaki/movielens>`_).
+`Mangaki`_ est un site de recommandation basé sur le profil : notez des anime/manga et recevez des recommandations.
 
-Tout le code est `sur GitHub <https://github.com/mangaki/mangaki>`_. Forkez-nous !
-
-En juillet 2017, nous avons été invités à `Anime Expo <https://animemangastudies.wordpress.com/2017/06/08/ax-2017-academic-program/>`_ à Los Angeles pour présenter Mangaki à une conférence académique ayant le manga pour sujet d'étude.
+- Les données sont `disponibles <http://research.mangaki.fr>`_ pour la recherche
+- La plateforme est `100 % open source <https://github.com/mangaki/mangaki>`_
+- Nous expliquons notre algorithme `dans les lycées <https://github.com/mangaki/movielens>`_
+- Notre `premier article de recherche <https://arxiv.org/abs/1709.01584>`_ a été accepté à `MANPU 2017 <http://manpu2017.imlab.jp>`_
+- Nous avons donné une conférence à `Anime Expo 2017 <https://animemangastudies.wordpress.com/2017/06/08/ax-2017-academic-program/>`_ à Los Angeles
 
 
 Enseignement de l'informatique
 ------------------------------
 
-Universitaire
-:::::::::::::
-
-J'ai adoré enseigner la `résolution de problèmes algorithmiques </algo/>`_ à CentraleSupélec.
+J'aime enseigner la `résolution de problèmes algorithmiques </algo/>`_.
 
 .. toctree::
    :maxdepth: 1
@@ -97,24 +97,22 @@ J'ai adoré enseigner la `résolution de problèmes algorithmiques </algo/>`_ à
    algo/index
    agreg/index
 
-Deux livres
-^^^^^^^^^^^
-
 .. image:: /_static/viedurr.jpg
    :align: right
    :target: http://tryalgo.org/book
 
 Avec `Christoph Dürr <http://www-desir.lip6.fr/~durrc/>`_, nous avons `publié un livre <http://tryalgo.org>`_ de préparation aux concours de programmation : *Programmation efficace : 128 algorithmes qu'il faut avoir compris et codés en Python*. `Voir sur TryAlgo. <http://tryalgo.org>`_
 
-Avec `Roger Mansuy <http://rogermansuy.fr>`_ et Ismaël Belghiti, nous avons publié un livre de préparation au concours de l'ENS en informatique : `Les clés pour l'info` : qui regorge de jolis problèmes ! Il servira également pour préparer l'agrégation de mathématiques. Voir `une note élogieuse de Stéphane Gonnord <http://www.societe-informatique-de-france.fr/wp-content/uploads/2017/04/1024-no10-Lu-Gonnord.pdf>`_ parue dans 1024, le bulletin de la SIF.
+Avec `Roger Mansuy <http://rogermansuy.fr>`_ et Ismaël Belghiti, nous avons publié un livre de préparation au concours de l'ENS en informatique et à l'agrégation de mathématiques : `Les clés pour l'info`. Voir `une note parue dans 1024 <http://www.societe-informatique-de-france.fr/wp-content/uploads/2017/04/1024-no10-Lu-Gonnord.pdf>`_.
 
-Extrascolaire
-:::::::::::::
+Pour les enfants
+::::::::::::::::
 
-Connaissez-vous `Girls Can Code! <https://gcc.prologin.org>`_ ? Ce sont des écoles d'été de programmation pour filles. On a fondé ça à Prologin en 2014, après avoir remporté un Google Rise Award.
+Il m'est important de faire découvrir l'informatique au lycée. Avez-vous songé à y faire une intervention ?
 
-Voici par exemple : 
+Quelques idées : 
 
+- `Girls Can Code! <https://gcc.prologin.org>`_, des écoles d'été gratuites de programmation pour filles.
 - `un système de recommandation minimal <https://github.com/mangaki/movielens>`_ expliqué à des jeunes de lycée.
 - `comment faire de la géométrie au collège avec des jeux vidéo <conferences/#geometrie-dans-les-jeux-video>`_.
 - `comment faire de l'intelligence artificielle au lycée </conferences/#introduce-ai-to-kids-it-s-possible>`_.
@@ -128,7 +126,9 @@ Voici par exemple :
 Musiques, TV, cinéma
 --------------------
 
-En plus d'algo, de `méta <http://club-meta.fr>`_ et d'anime, je suis passionné de typographie et de **musique** : nous avons fait des concerts à Japan Expo avec Lily et Sedeto, des chanteuses surdouées. J'ai transcrit des partitions de musiques d'anime et apparemment `elles sont lues <https://twitter.com/jjvie/status/756912248627535876>`_.
+Je suis féru de musique d'anime (autant vous dire qu'au Japon, je suis servi). Nous avons fait des **concerts à Japan Expo** avec Lily et Sedeto, des chanteuses surdouées.
+
+J'ai transcrit des partitions de musiques d'anime et parfois `j'ai des surprises <https://twitter.com/jjvie/status/756912248627535876>`_.
 
 .. figure:: /_static/trioelm.png
    :align: right
@@ -145,7 +145,7 @@ En plus d'algo, de `méta <http://club-meta.fr>`_ et d'anime, je suis passionné
    :align: right
    :target: http://fautealgo.fr
 
-Avec Michel Blockelet, nous avons réalisé l'émission `La Faute à l'algo <http://fautealgo.fr>`_ sur Nolife : 23 épisodes de 6 minutes sur les algorithmes omniprésents dans nos vies.
+Avec Michel Blockelet, nous avons réalisé l'émission `La Faute à l'algo <http://fautealgo.fr>`_ sur Nolife : 23 épisodes de 6 minutes sur les algorithmes omniprésents dans nos vies. L'émission a retenu `l'attention du Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-118.html#fn259>`_.
 
 .. toctree::
    :maxdepth: 1
@@ -170,14 +170,3 @@ Divers
 
    notes/index
    404
-
-
-Challenges
-----------
-
-- Vous souhaitez tester vos capacités en machine learning ? `→ Mangaki Challenge <http://research.mangaki.fr>`_
-- Vous souhaitez évaluer vos compétences numériques ? → `PIX`_
-- Vous participez à des concours de programmation ? `→ TryAlgo <http://tryalgo.org>`_
-- Vous passez les concours d'informatique des grandes écoles ? `→ Les clés pour l'info <https://www.amazon.fr/clés-pour-lInfo-ENS-Agrégation/dp/2916352651>`_
-- Vous passez l'agrégation de mathématiques ? `→ Ressources </agreg/>`_
-- Vous cherchez une partition de musique difficile ? `Touhou </anime-sheet-music/touhou-koumakyou-the-embodiment-of-scarlet-devil/lunar-clock-luna-dial.html>`_ ou `Kapustin <https://www.youtube.com/watch?v=9FvzPVofjyU>`_

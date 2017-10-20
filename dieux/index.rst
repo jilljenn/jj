@@ -34,5 +34,6 @@ Développeurs
 - Armin Ronacher, créateur de Flask, Jinja et Sphinx
 - Mark Otto, créateur de Bootstrap et Poole
 - Cyrille Rossant, auteur du *IPython Cookbook*
-- Greg Wilson, auteur de *Beautiful Code* et de `cette conférence <https://vimeo.com/9270320>`_
-- [Dan Hammer](http://bids.berkeley.edu/people/dan-hammer), data scientist pour le gouvernement
+- Greg Wilson, auteur de *Beautiful Code* et de `cette super conférence <https://vimeo.com/9270320>`_
+- `Dan Hammer <http://bids.berkeley.edu/people/dan-hammer>`_, data scientist pour le gouvernement
+- Olivier Grisel, core developer de scikit-learn
