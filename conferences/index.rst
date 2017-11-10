@@ -6,6 +6,15 @@ Présentations
    :backlinks: none
 
 
+Using Ratings & Posters for Anime & Manga Recommendations
+---------------------------------------------------------
+
+À `MANPU 2017 <http://manpu2017.imlab.jp>`_, Kyoto, novembre 2017.
+
+- `Slides <manpu2017.pdf>`_
+- `Code <https://github.com/mangaki/balse>`_ des benchmarks
+
+
 Multistage Testing using Determinantal Point Processes
 ------------------------------------------------------
 
