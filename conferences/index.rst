@@ -6,6 +6,15 @@ Présentations
    :backlinks: none
 
 
+Adaptive Testing using a General Diagnostic Model
+-------------------------------------------------
+
+Accepté à EC-TEL 2016. Présenté à RIKEN BSI, Saitama, janvier 2018.
+
+- `Slides <genma-bsi.pdf>`_
+- `Code <https://github.com/jilljenn/qna>`_ des benchmarks
+
+
 Using Ratings & Posters for Anime & Manga Recommendations
 ---------------------------------------------------------
 
