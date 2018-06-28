@@ -11,7 +11,9 @@ Jill-Jênn Vie
 
 Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_ et de `culture manga <https://mangaki.fr>`_.
 
-Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_. En parallèle, j'écris du code libre pour `l'État <https://pix.beta.gouv.fr>`_.
+Nous serons à **Anime Expo**, Los Angeles le 5 juillet 2018 pour donner la keynote **AI for Manga & Anime**. `En savoir plus. <http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/>`_
+
+Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_, voir `mes sujets d'intérêt. <https://jilljenn.github.io>`_
 
 `CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
@@ -27,18 +29,26 @@ Fait
 .. _Mangaki: https://mangaki.fr
 .. _PIX: https://pix.beta.gouv.fr
 
-- `2 livres <http://tryalgo.org/book>`_ sur les algorithmes + 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ : 128 algorithmes
+- `2 livres <http://tryalgo.org/book>`_ sur les algorithmes dont 1 `traduit en chinois <https://book.douban.com/subject/30210075/>`_ !
+- 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ contenant les 128 algorithmes du livre
 - 1 dataset de `350000 ratings de mangas <http://research.mangaki.fr>`_ + 1 `data challenge <http://research.mangaki.fr/2017/10/06/mangaki-data-challenge-winners-fr/>`_
-- 3 projets gouvernementaux : `PIX`_ / `ouverture APB (Etalab) <https://www.data.gouv.fr/s/resources/rapport-sur-les-conditions-douverture-du-systeme-admission-post-bac/20170421-101632/20170420_Rapport-Etalab-missionAPB-VF.pdf>`_ / `IA (Sénat) <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
-- 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_
+- 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_, mentionnée par le `Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
 - s'infiltrer à `Pixar Animation Studios <https://goo.gl/photos/hHv7HWDx5EZWfEtXA>`_
+
+
+En cours
+--------
+
+- traduire `128 algorithmes <http://tryalgo.org/book/>`_ en anglais
+- `développer les compétences numériques des citoyens français <https://pix.beta.gouv.fr>`_
+- promouvoir `le livre de mon père </vipere>`_
+- faire converger ces foutus modèles de machine learning.
 
 
 À faire
 -------
 
-- jouer plus de Kapustin (`Etude 1 <https://www.youtube.com/watch?v=VykHhf7D6vc&spfreload=10>`_)
-- écrire un scénario pour *Ubik* + lire *Gaspard in the Morning* de Yasutaka Tsutsui
+- écrire un scénario pour *Ubik*
 
 
 Challenges
@@ -132,9 +142,9 @@ J'ai transcrit des partitions de musiques d'anime et parfois `j'ai des surprises
 
 .. figure:: /_static/trioelm.png
    :align: right
-   :target: http://trioelm.com
+   :target: http://youtube.com/trioelm
 
-   `Trio ELM <http://trioelm.com>`_
+   `Trio ELM <http://youtube.com/trioelm>`_
 
 .. toctree::
    :maxdepth: 2
