@@ -11,7 +11,7 @@ Jill-Jênn Vie
 
 Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_ et de `culture manga <https://mangaki.fr>`_.
 
-Nous serons à **Anime Expo**, Los Angeles le 5 juillet 2018 pour donner la keynote **AI for Manga & Anime**. `En savoir plus. <http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/>`_
+Nous avons été à **Anime Expo**, Los Angeles le 5 juillet 2018 pour donner la keynote **AI for Manga & Anime**. `En savoir plus. <http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/>`_
 
 Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_, voir `mes sujets d'intérêt. <https://jilljenn.github.io>`_
 
