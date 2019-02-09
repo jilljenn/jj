@@ -6,8 +6,6 @@ Ressources pour l'agrégation
 
 J'ai passé l'agrégation de mathématiques en 2014, voici ma `liste commentée de développements </_static/dog.pdf>`_.
 
-Des références sont aussi disponibles sur `le site de la prépa agrég' de Cachan <http://agreg-cachan.fr/references/>`_
-
 
 Un métadéveloppement d'informatique
 -----------------------------------

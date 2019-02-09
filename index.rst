@@ -5,14 +5,6 @@
 Jill-Jênn Vie
 =============
 
-.. figure:: /_static/kashima-lab.png
-   :align: right
-   :target: http://research.mangaki.fr
-
-Bienvenue ! Je suis féru d'`algorithmes <http://tryalgo.org>`_ et de `culture manga <https://mangaki.fr>`_.
-
-Nous serons à **Anime Expo**, Los Angeles le 5 juillet 2018 pour donner la keynote **AI for Manga & Anime**. `En savoir plus. <http://research.mangaki.fr/2018/05/20/ai-for-manga-and-anime-aima/>`_
-
 Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_, voir `mes sujets d'intérêt. <https://jilljenn.github.io>`_
 
 `CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
@@ -29,7 +21,7 @@ Fait
 .. _Mangaki: https://mangaki.fr
 .. _PIX: https://pix.beta.gouv.fr
 
-- `2 livres <http://tryalgo.org/book>`_ sur les algorithmes dont 1 `traduit en chinois <https://book.douban.com/subject/30210075/>`_ !
+- `2 livres <http://tryalgo.org/book>`_ sur les algorithmes dont 1 `traduit en chinois <https://book.douban.com/subject/30210075/>`_ (bientôt anglais).
 - 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ contenant les 128 algorithmes du livre
 - 1 dataset de `350000 ratings de mangas <http://research.mangaki.fr>`_ + 1 `data challenge <http://research.mangaki.fr/2017/10/06/mangaki-data-challenge-winners-fr/>`_
 - 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_, mentionnée par le `Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
@@ -39,16 +31,7 @@ Fait
 En cours
 --------
 
-- traduire `128 algorithmes <http://tryalgo.org/book/>`_ en anglais
-- `développer les compétences numériques des citoyens français <https://pix.beta.gouv.fr>`_
 - promouvoir `le livre de mon père </vipere>`_
-- faire converger ces foutus modèles de machine learning.
-
-
-À faire
--------
-
-- écrire un scénario pour *Ubik*
 
 
 Challenges
@@ -73,10 +56,10 @@ J'étudie des modèles de machine learning sur des données éducatives :
 
    Ma thèse en Markdown <https://github.com/jilljenn/phd>
    works/index
-   Online matrix factorization <research/index>
-   Sparse factor analysis <research/index>
+   Systèmes de recommandation <research/index>
+   Knowledge Tracing <research/index>
    Crowdsourcing <research/index>
-   Recommender systems <research/index>
+   Apprentissage de représentations de graphes <research/index>
 
 Si vous êtes intéressé par un de ces sujets, `contactez-moi <mailto:vie@jill-jenn.net>`_.
 
@@ -93,7 +76,7 @@ Mangaki
 - La plateforme est `100 % open source <https://github.com/mangaki/mangaki>`_
 - Nous expliquons notre algorithme `dans les lycées <https://github.com/mangaki/movielens>`_
 - Notre `premier article de recherche <https://arxiv.org/abs/1709.01584>`_ a été accepté à `MANPU 2017 <http://manpu2017.imlab.jp>`_
-- Nous avons donné une conférence à `Anime Expo 2017 <https://animemangastudies.wordpress.com/2017/06/08/ax-2017-academic-program/>`_ à Los Angeles
+- Nous avons donné une keynote à `Anime Expo 2018 <http://research.mangaki.fr/2018/07/15/ai-for-manga-and-anime/>`_ à Los Angeles
 
 
 Enseignement de l'informatique
