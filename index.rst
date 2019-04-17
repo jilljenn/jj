@@ -5,7 +5,9 @@
 Jill-Jênn Vie
 =============
 
-Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Tokyo) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_, voir `mes sujets d'intérêt. <https://jilljenn.github.io>`_
+Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Kyoto) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_, voir `mes sujets d'intérêt. <https://jilljenn.github.io>`_
+
+Je rends actuellement visite au professeur Yoav Bergner du laboratoire LEARN de New York University, jusqu'à mi-juillet.
 
 `CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
