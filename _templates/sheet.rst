@@ -22,10 +22,10 @@ From the anime `{{ section }} <index.html>`_.
 
 Hey, don't leave that quickly, there is `plenty of anime sheet music </anime-sheet-music>`_ on this website.
 
-Also, I am the pianist of `Trio ELM <http://youtube.com/trioelm>`_. We perform anime and game music in concerts.
+Also, I am the pianist of `Trio ELM <https://youtube.com/trioelm>`_. We perform anime and game music in concerts.
 
 .. image:: /_static/trioelm.png
-   :target: http://youtube.com/trioelm
+   :target: https://youtube.com/trioelm
 
 {% if related_sheets|count > 1 %}
 Also from {{ section }}
@@ -42,15 +42,15 @@ Also from {{ section }}
 
     <script src="/_static/microajax.js"></script>
     <script>
-    li = document.querySelector('.body div').getElementsByTagName('li');
+    li = document.querySelectorAll('.body div li p');
     document.addEventListener("DOMContentLoaded", function(event) {
         {% if lienrpgsoluce %}
-        new microAjax('http://jill-jenn.net/anime-sheet-music/rpg/{{ nom_slug }}.txt', function(data) {li[0].innerHTML += '<span class="badge">' + data + '</span>';});
-        new microAjax('http://jill-jenn.net/anime-sheet-music/pdf/{{ nom_slug }}.txt', function(data) {li[1].innerHTML += '<span class="badge">' + data + '</span>'});
-        new microAjax('http://jill-jenn.net/anime-sheet-music/mid/{{ nom_slug }}.txt', function(data) {li[2].innerHTML += '<span class="badge">' + data + '</span>';});
+        new microAjax('https://jill-jenn.net/anime-sheet-music/rpg/{{ nom_slug }}.txt', function(data) {li[0].innerHTML += '<span class="badge">' + data + '</span>';});
+        new microAjax('https://jill-jenn.net/anime-sheet-music/pdf/{{ nom_slug }}.txt', function(data) {li[1].innerHTML += '<span class="badge">' + data + '</span>'});
+        new microAjax('https://jill-jenn.net/anime-sheet-music/mid/{{ nom_slug }}.txt', function(data) {li[2].innerHTML += '<span class="badge">' + data + '</span>';});
         {% else %}
-        new microAjax('http://jill-jenn.net/anime-sheet-music/pdf/{{ nom_slug }}.txt', function(data) {li[0].innerHTML += '<span class="badge">' + data + '</span>';});
-        new microAjax('http://jill-jenn.net/anime-sheet-music/mid/{{ nom_slug }}.txt', function(data) {li[1].innerHTML += '<span class="badge">' + data + '</span>';});
+        new microAjax('https://jill-jenn.net/anime-sheet-music/pdf/{{ nom_slug }}.txt', function(data) {li[0].innerHTML += '<span class="badge">' + data + '</span>';});
+        new microAjax('https://jill-jenn.net/anime-sheet-music/mid/{{ nom_slug }}.txt', function(data) {li[1].innerHTML += '<span class="badge">' + data + '</span>';});
         {% endif %}
     });
     </script>

@@ -39,6 +39,6 @@ TP n° 4 - Optimisation
 Pour aller plus loin
 --------------------
     
-- 128 algorithmes en Python : le package `TryAlgo <http://tryalgo.org>`_
+- 128 algorithmes en Python : le package `TryAlgo <https://tryalgo.org>`_
 - `Algorithmique au Collège de France (2012) <http://www.college-de-france.fr/site/bernard-chazelle/course-2012-2013.htm>`_
 - `Deep Learning au Collège de France (2016) <http://www.college-de-france.fr/site/yann-lecun/inaugural-lecture-2015-2016.htm>`_

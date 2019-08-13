@@ -11,7 +11,7 @@ TP n° 1 – Récursivité, listes
 
 .. toctree::
 
-   Sujet TP 1 <http://jill-jenn.net/_static/tp-caml/1-recursivite-listes.pdf>
+   Sujet TP 1 <https://jill-jenn.net/_static/tp-caml/1-recursivite-listes.pdf>
    Jeu de tests pour vérifier vos réponses <1-test>
    Correction de Jill-Jênn (avec récursivité terminale mais avec where) <1-correction-jill-jenn>
    Correction de Thomas (sans where mais pas toujours avec récursivité terminale) <1-correction-thomas>
@@ -26,7 +26,7 @@ cette machine (ne) rend (pas) la monnaie, emploi du temps, faites vos valises
 
 .. toctree::
 
-   Sujet TP 2 <http://jill-jenn.net/_static/tp-caml/2-gloutons-dynamiques.pdf>
+   Sujet TP 2 <https://jill-jenn.net/_static/tp-caml/2-gloutons-dynamiques.pdf>
    Jeu de tests pour vérifier vos réponses <2-test>
    Correction de Thomas <2-correction-thomas>
 
@@ -39,7 +39,7 @@ codage de Huffman
 
 .. toctree::
 
-   Sujet TP 3 <http://jill-jenn.net/_static/tp-caml/3-structures-recursives.pdf>
+   Sujet TP 3 <https://jill-jenn.net/_static/tp-caml/3-structures-recursives.pdf>
    Correction en OCaml <3-correction>
 
 
@@ -51,7 +51,7 @@ algorithme de Prim, tas
 
 .. toctree::
 
-   Sujet TP 4 <http://jill-jenn.net/_static/tp-caml/4-arbres-couvrants-minimaux.pdf>
+   Sujet TP 4 <https://jill-jenn.net/_static/tp-caml/4-arbres-couvrants-minimaux.pdf>
    Correction en OCaml <4-correction>
    Juste l'algorithme de Prim, commenté, en Caml Light <4-prim>
 
@@ -62,7 +62,7 @@ TP n° 5 – Arbres couvrants minimaux aussi
 
 union-find, algorithme de Kruskal
 
-- `Sujet TP 5 <http://jill-jenn.net/_static/tp-caml/5-arbres-couvrants-minimaux-aussi.pdf>`_
+- `Sujet TP 5 <https://jill-jenn.net/_static/tp-caml/5-arbres-couvrants-minimaux-aussi.pdf>`_
 
 
 TP n° 6 – Dernier TP avant la fin du monde
@@ -82,7 +82,7 @@ Knuth-Morris-Pratt
 
 .. toctree::
 
-   Sujet TP 7 <http://jill-jenn.net/_static/tp-caml/7-recherche-motifs.pdf>
+   Sujet TP 7 <https://jill-jenn.net/_static/tp-caml/7-recherche-motifs.pdf>
    Correction <7-correction>
 
 

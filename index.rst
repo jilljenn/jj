@@ -1,15 +1,9 @@
-.. image:: /_static/english.png
-   :align: right
-   :target: https://jilljenn.github.io
-
 Jill-Jênn Vie
 =============
 
-Je suis **chercheur** en machine learning au `RIKEN AIP <http://www.riken.jp/en/research/labs/aip/>`_ (Kyoto) sous la direction du professeur `Hisashi Kashima <http://www.geocities.co.jp/kashi_pong/index_e.html>`_, voir `mes sujets d'intérêt. <https://jilljenn.github.io>`_
+Je suis **chercheur** au `RIKEN AIP <https://aip.riken.jp/?lang=en>`_ à Kyoto, dans l'équipe de `Hisashi Kashima <https://hkashima.github.io/index_e.html>`_. See `my research interests. <https://jilljenn.github.io>`_
 
-Je rends actuellement visite au professeur Yoav Bergner du laboratoire LEARN de New York University, jusqu'à mi-juillet.
-
-`CV </_static/CV.pdf>`_ / `résumé </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
+`CV (fr) </_static/CV.pdf>`_ / `résumé (en) </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
 .. toctree::
    :hidden:
@@ -21,9 +15,9 @@ Fait
 ----
 
 .. _Mangaki: https://mangaki.fr
-.. _PIX: https://pix.beta.gouv.fr
+.. _PIX: https://pix.fr
 
-- `2 livres <http://tryalgo.org/book>`_ sur les algorithmes dont 1 `traduit en chinois <https://book.douban.com/subject/30210075/>`_ (bientôt anglais).
+- `2 livres <https://tryalgo.org/book>`_ sur les algorithmes dont 1 `traduit en chinois <https://book.douban.com/subject/30210075/>`_ (bientôt anglais).
 - 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ contenant les 128 algorithmes du livre
 - 1 dataset de `350000 ratings de mangas <http://research.mangaki.fr>`_ + 1 `data challenge <http://research.mangaki.fr/2017/10/06/mangaki-data-challenge-winners-fr/>`_
 - 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_, mentionnée par le `Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
@@ -40,7 +34,7 @@ Challenges
 ----------
 
 - Vous souhaitez évaluer vos compétences numériques ? → `PIX`_
-- Vous participez à des concours de programmation ? `→ TryAlgo <http://tryalgo.org>`_
+- Vous participez à des concours de programmation ? `→ TryAlgo <https://tryalgo.org>`_
 - Vous passez les concours d'informatique des grandes écoles ? `→ Les clés pour l'info <https://www.amazon.fr/clés-pour-lInfo-ENS-Agrégation/dp/2916352651>`_
 - Vous passez l'agrégation de mathématiques ? `→ Ressources pour l'agrég' </agreg/>`_
 - Vous cherchez une partition de musique difficile ? `Touhou </anime-sheet-music/touhou-koumakyou-the-embodiment-of-scarlet-devil/lunar-clock-luna-dial.html>`_ ou `Kapustin <https://www.youtube.com/watch?v=9FvzPVofjyU>`_
@@ -94,9 +88,9 @@ J'aime enseigner la `résolution de problèmes algorithmiques </algo/>`_.
 
 .. image:: /_static/viedurr.jpg
    :align: right
-   :target: http://tryalgo.org/book
+   :target: https://tryalgo.org/book
 
-Avec `Christoph Dürr <http://www-desir.lip6.fr/~durrc/>`_, nous avons `publié un livre <http://tryalgo.org>`_ de préparation aux concours de programmation : *Programmation efficace : 128 algorithmes qu'il faut avoir compris et codés en Python*. `Voir sur TryAlgo. <http://tryalgo.org>`_
+Avec `Christoph Dürr <http://www-desir.lip6.fr/~durrc/>`_, nous avons `publié un livre <https://tryalgo.org>`_ de préparation aux concours de programmation : *Programmation efficace : 128 algorithmes qu'il faut avoir compris et codés en Python*. `Voir sur TryAlgo. <https://tryalgo.org>`_
 
 Avec `Roger Mansuy <http://rogermansuy.fr>`_ et Ismaël Belghiti, nous avons publié un livre de préparation au concours de l'ENS en informatique et à l'agrégation de mathématiques : `Les clés pour l'info`. Voir `une note parue dans 1024 <http://www.societe-informatique-de-france.fr/wp-content/uploads/2017/04/1024-no10-Lu-Gonnord.pdf>`_.
 
@@ -127,9 +121,9 @@ J'ai transcrit des partitions de musiques d'anime et parfois `j'ai des surprises
 
 .. figure:: /_static/trioelm.png
    :align: right
-   :target: http://youtube.com/trioelm
+   :target: https://youtube.com/trioelm
 
-   `Trio ELM <http://youtube.com/trioelm>`_
+   `Trio ELM <https://youtube.com/trioelm>`_
 
 .. toctree::
    :maxdepth: 2

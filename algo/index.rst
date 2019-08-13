@@ -73,7 +73,7 @@ Pour s'entraîner :
 Autres concours
 :::::::::::::::
 
-Avec Alexis Comte et Stéphane Henriot, nous avons rédigé une `liste des différents concours de programmation <http://jill-jenn.net/codeweek/4-competitions.html>`_. En voici quelques-uns notables.
+Avec Alexis Comte et Stéphane Henriot, nous avons rédigé une `liste des différents concours de programmation <https://jill-jenn.net/codeweek/4-competitions.html>`_. En voici quelques-uns notables.
 
 - `Google Code Jam <http://code.google.com/codejam/>`_ : concours annuel débutant en avril, composé d'excellents sujets parfois très difficiles.
 - `Codeforces <http://codeforces.com>`_ : un site russe anglophone avec des concours fréquents d'excellente qualité (plusieurs par mois).
@@ -83,9 +83,9 @@ Bibliographie
 
 Je ne recommande pas le Cormen que je trouve trop lourd, en revanche :
 
+- `Programmation efficace <https://tryalgo.org>`_ de Vie-Dürr : implémentations efficaces en Python.
 - `Éléments d'algorithmique <http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf>`_ de Beauquier, Berstel, Chrétienne (surnommé le BBC) : une référence pour les calculs de complexité et arbres équilibrés qui fait bien la distinction entre types abstraits (par ex. une file à priorité) et structures de données (par ex. un tas).
-- *Algorithms* de Sedgewick : la seule référence d'une explication claire de l'algorithme de Knuth-Morris-Pratt.
-- `Programmation efficace <http://tryalgo.org>`_ de Vie-Dürr : implémentations efficaces en Python.
+- *Algorithms* de Sedgewick : jusqu'à `notre livre <https://tryalgo.org/book>`_, la seule référence d'une explication claire de l'algorithme de Knuth-Morris-Pratt.
 
 La Faute à l'algo
 -----------------

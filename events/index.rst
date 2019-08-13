@@ -44,7 +44,7 @@ Prochains événements
 .. _Festival international du film d'animation d'Annecy: http://www.annecy.org
 .. _MathC2+: http://eduscol.education.fr/pid23341-cid54958/mathc2.html
 .. _EDM 2015: http://www.educationaldatamining.org/EDM2015/
-.. _Trio ELM: http://trioelm.com
+.. _Trio ELM: https://youtube.com/trioelm
 .. _Evgeny Morozov: http://www.lemonde.fr/festival/article/2015/05/29/conversation-avec-evgeny-morozov_4643580_4415198.html
 .. _Final Symphony II: http://finalfantasy.wikia.com/wiki/Final_Symphony_II
 
@@ -59,21 +59,21 @@ Prochains événements
 .. _SPECTRE: https://fr.wikipedia.org/wiki/007_SPECTRE
 .. _Le Garçon et la bête: http://vie.jill-jenn.net/2015/10/02/le-garcon-et-la-bete/
 .. _Mamoru Hosoda: http://mangaki.fr/artist/795
-.. _ACM: http://tryalgo.org/acm/
+.. _ACM: https://tryalgo.org/acm/
 .. _SWERC 2015: http://swerc.up.pt/2015/
 .. _SWERC 2016: http://swerc.up.pt/2016/
 .. _Room: http://www.rottentomatoes.com/m/room_2015/
 .. _Leçon inaugurale sur le deep learning: http://www.college-de-france.fr/site/yann-lecun/inaugural-lecture-2016-02-04-18h00.htm
 .. _Student Demo Cup: http://student.opensourcesummit.paris
 
-.. _projet PIX: https://pix.beta.gouv.fr
+.. _projet PIX: https://pix.fr
 .. _Congrès de la SIF: http://sif2017.univ-reims.fr
 .. _Learning at Scale 2017: http://learningatscale.acm.org/las2017/
 
 ================================  ===============================================================  ==============================
 Date                              Objet                                                            Lieu
 ================================  ===============================================================  ==============================
-20–21 avril 2017                  Conférence `Learning at Scale 2017`_ au MIT                      Cambridge, US
+1er octobre 2019                  Chargé de recherche à Inria                                      Lille, France
 ================================  ===============================================================  ==============================
 
 Passés
@@ -89,8 +89,8 @@ Du 18 au 20 novembre 2016, 3 équipes de l'ENS Paris-Saclay ont représenté leu
 
 Le 5 décembre 2016, j'ai soutenu ma thèse :
 
-- `Site de la soutenance <http://jiji.cat>`_
-- `La thèse <http://jiji.cat/cat.pdf>`_
+- `Site de la soutenance <https://jiji.cat>`_
+- `La thèse <https://jiji.cat/cat.pdf>`_
 - `Les sources de la thèse sur GitHub <https://github.com/jilljenn/phd>`_
 
 .. isso-comments:: fr
@@ -109,7 +109,7 @@ Le 5 décembre 2016, j'ai soutenu ma thèse :
 .. Août
 .. ::::
 
-.. J'ai beaucoup voyagé en Europe. `Voir le blog associé <http://jiji.cat>`_.
+.. J'ai beaucoup voyagé en Europe. `Voir le blog associé <https://jiji.cat>`_.
 
 
 .. Septembre

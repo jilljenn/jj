@@ -52,4 +52,4 @@ Pour aller plus loin
 - La version polonaise `spoj.com <http://spoj.com>`_
 - La version chinoise `poj.org <http://poj.org>`_
 - Le site de compétition en ligne `CodeForces <http://codeforces.com>`_
-- Le livre `Programmation efficace <http://tryalgo.org>`_ issu de la préparation aux ACM donnée par Christoph Dürr et moi.
+- Le livre `Programmation efficace <https://tryalgo.org/book>`_ issu de la préparation aux ACM donnée par Christoph Dürr et moi.
