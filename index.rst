@@ -1,7 +1,7 @@
 Jill-Jênn Vie
 =============
 
-Je suis **chercheur** au `RIKEN AIP <https://aip.riken.jp/?lang=en>`_ à Kyoto, dans l'équipe de `Hisashi Kashima <https://hkashima.github.io/index_e.html>`_. See `my research interests. <https://jilljenn.github.io>`_
+Je suis *chargé de recherche de classe normalienne* à Inria, dans l'équipe `SequeL <https://team.inria.fr/sequel/>`_. Avant cela, j'ai passé deux merveilleuses années de postdoc à `RIKEN AIP <https://aip.riken.jp/?lang=en>`_ dans l'équipe de `Hisashi Kashima <https://hkashima.github.io/index_e.html>`_ ainsi que 3 mois de visite à New York University. See `this page in English. <https://jilljenn.github.io>`_
 
 `CV (fr) </_static/CV.pdf>`_ / `résumé (en) </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
