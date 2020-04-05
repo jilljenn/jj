@@ -16,7 +16,7 @@ From the anime `{{ section }} <index.html>`_.
 - `Download sheet music </anime-sheet-music/pdf/{{ nom_slug }}.html>`_
 - `Get midi file </anime-sheet-music/mid/{{ nom_slug }}.html>`_
 
-{% if youtube %}I also recorded it on YouTube (my channel name is `Xnihpsel <http://youtube.com/Xnihpsel>`_, nice to meet you):
+{% if youtube %}I also recorded it on YouTube (my channel name is `Xnihpsel <https://youtube.com/Xnihpsel>`_, nice to meet you):
 
 .. youtube:: {{ youtube }}{% endif %}
 

@@ -19,7 +19,7 @@ def get_slug(name):
     return slug
 
 with open('anime-sheet-music.yml') as f:
-    sheets = yaml.load(f)
+    sheets = yaml.load(f, Loader=yaml.FullLoader)
 
 sections = set()
 related = {}
