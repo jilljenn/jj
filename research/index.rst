@@ -1,7 +1,7 @@
 Sujets de recherche
 ===================
 
-My research in English: https://jilljenn.github.io
+My research in English: https://jjv.ie
 
 Tests adaptatifs
 ----------------

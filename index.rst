@@ -1,7 +1,7 @@
 Jill-Jênn Vie
 =============
 
-Je suis *chargé de recherche de classe normale* à Inria, dans l'équipe `SequeL <https://team.inria.fr/sequel/>`_. See `this page in English. <https://jilljenn.github.io>`_
+Je suis chargé de recherche à Inria Saclay à Palaiseau, équipe `Soda <https://team.inria.fr/soda/>`_. Nous `recrutons <https://team.inria.fr/soda/job-offers>`_ des stagiaires de M2. See `this page in English. <https://jjv.ie>`_
 
 `CV (fr) </_static/CV.pdf>`_ / `résumé (en) </_static/résumé.pdf>`_ / `Stack Overflow <https://stackoverflow.com/cv/jj>`_
 
@@ -10,34 +10,31 @@ Je suis *chargé de recherche de classe normale* à Inria, dans l'équipe `Seque
 
    events/index
 
+Responsabilités
+---------------
+
+- Je suis secrétaire de la `Société informatique de France <https://www.societe-informatique-de-france.fr/>`_. `Adhérez ! <https://www.societe-informatique-de-france.fr/la-sif/adhesions/>`_
+- Je suis jury et co-responsable informatique avec Marc Jeanmougin de `l'agrégation d'informatique <https://agreg-info.org/>`_.
+- J'ai enseigné avec Marc Lelarge le cours de `deep learning <https://dataflowr.com>`_ à l'ENS.
+- J'interviens comme expert auprès de la Commission européenne en IA pour l'éducation.
+
 
 Fait
 ----
 
 .. _Mangaki: https://mangaki.fr
+.. _NLnet: https://nlnet.nl/
 .. _PIX: https://pix.fr
 
-- `2 livres <https://tryalgo.org/book>`_ sur les algorithmes dont 1 `traduit en chinois <https://book.douban.com/subject/30210075/>`_ (bientôt anglais).
-- 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ contenant les 128 algorithmes du livre
-- 1 dataset de `350000 ratings de mangas <http://research.mangaki.fr>`_ + 1 `data challenge <http://research.mangaki.fr/2017/10/06/mangaki-data-challenge-winners-fr/>`_
-- 1 émission de télé : `La Faute à l'algo <http://fautealgo.fr>`_, mentionnée par le `Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
-- s'infiltrer à `Pixar Animation Studios <https://goo.gl/photos/hHv7HWDx5EZWfEtXA>`_
+- Le livre d'algorithmes `Programmation efficace <https://tryalgo.org/book>`_ traduit en 3 langues + 1 package Python `tryalgo <https://github.com/jilljenn/tryalgo>`_ contenant les 128 algorithmes du livre
+- `Mangaki`_, un système de recommandation de mangas financé par la fondation `NLnet`_
+- L'émission de télé `La Faute à l'algo <http://fautealgo.fr>`_, mentionnée par le `Sénat <http://www.senat.fr/rap/r16-464-1/r16-464-1.html>`_
 
 
 En cours
 --------
 
 - promouvoir `le livre de mon père </vipere>`_
-
-
-Challenges
-----------
-
-- Vous souhaitez évaluer vos compétences numériques ? → `PIX`_
-- Vous participez à des concours de programmation ? `→ TryAlgo <https://tryalgo.org>`_
-- Vous passez les concours d'informatique des grandes écoles ? `→ Les clés pour l'info <https://www.amazon.fr/clés-pour-lInfo-ENS-Agrégation/dp/2916352651>`_
-- Vous passez l'agrégation de mathématiques ? `→ Ressources pour l'agrég' </agreg/>`_
-- Vous cherchez une partition de musique difficile ? `Touhou </anime-sheet-music/touhou-koumakyou-the-embodiment-of-scarlet-devil/lunar-clock-luna-dial.html>`_ ou `Kapustin <https://www.youtube.com/watch?v=9FvzPVofjyU>`_
 
 
 Recherche
@@ -52,10 +49,7 @@ J'étudie des modèles de machine learning sur des données éducatives :
 
    Ma thèse en Markdown <https://github.com/jilljenn/phd>
    works/index
-   Systèmes de recommandation <research/index>
    Knowledge Tracing <research/index>
-   Crowdsourcing <research/index>
-   Apprentissage de représentations de graphes <research/index>
 
 Si vous êtes intéressé par un de ces sujets, `contactez-moi <mailto:vie@jill-jenn.net>`_.
 

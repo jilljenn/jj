@@ -7,7 +7,7 @@ Trio ELM
 .. figure:: /_static/trioelm.png
    :align: left
 
-I am the pianist of `Trio ELM <http://trioelm.com>`_: we perform `anime music <http://trioelm.com>`_ in concert at various conventions such as Japan Expo.
+I am the pianist of `Trio ELM <https://trioelm.com>`_: we perform `anime music <https://trioelm.com>`_ in concert at various conventions such as Japan Expo.
 
 `Listen to our videos on YouTube! <https://www.youtube.com/c/trioelm>`_
 

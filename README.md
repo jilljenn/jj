@@ -10,4 +10,6 @@ Then you can have minimal configuration:
 
     mkdir _static /tmp/stats
     echo 'FLASK_DIR="/tmp"' > secret.py
+    python demotivators.py
+    python anime-sheet-music.py
     make html
