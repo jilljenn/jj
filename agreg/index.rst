@@ -1,5 +1,5 @@
-Préparation à l'agrégation de mathématiques
-===========================================
+Préparation à l'agrégation d'informatique et de mathématiques
+=============================================================
 
 Ressources pour l'agrégation
 ----------------------------

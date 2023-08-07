@@ -1,7 +1,7 @@
 Les Tribulations d'un architecte, le livre de mon père
 ======================================================
 
-Mon père a écrit ce livre.
+Mon père, Lucien Vie (1923--2022), a écrit ce livre.
 
 Introduction
 ------------

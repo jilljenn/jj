@@ -42,7 +42,7 @@ Also from {{ section }}
 
     <script src="/_static/microajax.js"></script>
     <script>
-    li = document.querySelectorAll('.body div li p');
+    li = document.querySelectorAll('.body section li p');
     document.addEventListener("DOMContentLoaded", function(event) {
         {% if lienrpgsoluce %}
         new microAjax('https://jill-jenn.net/anime-sheet-music/rpg/{{ nom_slug }}.txt', function(data) {li[0].innerHTML += '<span class="badge">' + data + '</span>';});

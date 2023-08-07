@@ -53,10 +53,10 @@ Ouvert aux jeunes de 20 ans et moins : d'octobre à mai. Les sujets écrits des 
 - à composante historique : `Enigma <http://prologin.org/static/archives/2013/demi-finales/sujet/enigma.pdf>`_
 - d'autres problèmes en vrac : `MinisterMind <http://prologin.org/static/archives/2013/demi-finales/sujet/ministermind.pdf>`_, `Comic-Con <http://prologin.org/static/archives/2012/demi-finales/sujet/comic-con.pdf>`_, `Memento Somniare <http://prologin.org/static/archives/2011/demi-finales/sujet/memento-somniare.pdf>`_
 
-ACM/ICPC
-::::::::
+ICPC
+::::
 
-Le concours ACM/ICPC est un concours de programmation en **C, C++ ou Java** à destination des étudiants en licence ou master. La particularité : 10 problèmes, 5 heures, 3 étudiants, 1 seul clavier par équipe. C'est terrible.
+Le concours ICPC est un concours de programmation en **C, C++, Java** parfois **Python** à destination des étudiants en licence ou master. La particularité : 10 problèmes, 5 heures, 3 étudiants, 1 seul clavier par équipe. C'est terrible.
 
 Pour s'entraîner :
 
@@ -84,7 +84,7 @@ Bibliographie
 Je ne recommande pas le Cormen que je trouve trop lourd, en revanche :
 
 - `Programmation efficace <https://tryalgo.org>`_ de Vie-Dürr : implémentations efficaces en Python.
-- `Éléments d'algorithmique <http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf>`_ de Beauquier, Berstel, Chrétienne (surnommé le BBC) : une référence pour les calculs de complexité et arbres équilibrés qui fait bien la distinction entre types abstraits (par ex. une file à priorité) et structures de données (par ex. un tas).
+- `Éléments d'algorithmique <http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf>`_ de Beauquier, Berstel, Chrétienne (le BBC) : une référence pour les calculs de complexité et arbres équilibrés qui fait bien la distinction entre types abstraits (par ex. une file à priorité) et structures de données (par ex. un tas).
 - *Algorithms* de Sedgewick : jusqu'à `notre livre <https://tryalgo.org/book>`_, la seule référence d'une explication claire de l'algorithme de Knuth-Morris-Pratt.
 
 La Faute à l'algo

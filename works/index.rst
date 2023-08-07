@@ -7,8 +7,8 @@ Informatique
 Articles de recherche
 :::::::::::::::::::::
 
-.. raw:: html
-   :file: publications.html
+Voir `mes publications sur mon site en anglais <https://jjv.ie/publications/>`_ ou sur `Google Scholar <https://scholar.google.com/citations?hl=en&amp;user=7oCGHIMAAAAJ>`_
+
 
 Rapports de stage
 :::::::::::::::::

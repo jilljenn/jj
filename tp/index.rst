@@ -1,7 +1,7 @@
 TP Caml en MP
 =============
 
-Voici les TP que `Thomas Huet <http://thomash.fr>`_ et moi avons dispensés au lycée Louis-le-Grand en MP en 2012.
+Voici les TP que `Thomas Huet <http://thomash.fr>`_ et moi avons dispensés au lycée Louis-le-Grand en MP en 2012. Ils sont sous licence Creative Commons 4.0 CC-BY.
 
 TP n° 1 – Récursivité, listes
 -----------------------------
