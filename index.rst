@@ -1,9 +1,9 @@
 Jill-Jênn Vie
 =============
 
-Je suis (très) chargé de recherche à Inria Saclay dans l'équipe `Soda <https://team.inria.fr/soda/>`_. See `this page in English. <https://jjv.ie>`_
+Je suis chargé de recherche à Inria Saclay dans l'équipe `Soda <https://team.inria.fr/soda/>`_ et chargé d'enseignement à l'École polytechnique. `Read in English. <https://jjv.ie>`_
 
-Mes livres `Les Clés pour l'info <https://amzn.to/3YkstDv>`_ ou `Competitive Programming <https://amzn.to/45itxtF>`_ sont (enfin) réédités. Vous pourrez les trouver sur `Amazon <https://amzn.to/3YkstDv>`_, la Fnac, Cultura, etc.
+Mes livres `Les Clés pour l'info <works>`_ ou `Competitive Programming <https://tryalgo.org/book/>`_ sont réédités.
 
 `CV (fr) </_static/CV.pdf>`_ / `résumé (en) </_static/résumé.pdf>`_
 
@@ -17,8 +17,7 @@ Responsabilités
 ---------------
 
 - Je suis jury de `l'agrégation d'informatique <https://agreg-info.org/>`_ avec `Marc Jeanmougin <https://marc.jeanmougin.fr/>`_.
-- J'enseigne le cours de `deep learning <https://dataflowr.com>`_ à l'ENS avec `Kevin Scaman <https://scaman.wordpress.com/>`_ et `Marc Lelarge <https://www.di.ens.fr/~lelarge/>`_.
-- Je suis coach de l'École polytechnique et l'ENS Paris-Saclay au concours `ICPC SWERC <https://swerc.eu>`_.
+- Je suis coach de l'École polytechnique au concours `ICPC <https://worldfinals.icpc.global/>`_. Après deux médailles d'argent 🥈🥈, nous disputerons la finale à Astana, Kazakhstan.
 - J'ai rejoint le `conseil scientifique de l'Éducation nationale <https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492>`_.
 
 

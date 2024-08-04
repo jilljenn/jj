@@ -16,38 +16,69 @@ Mon top
 
 Le souci, c'est que si je mets trop de films comme *Perfect Blue* `パーフェクトブルー <https://mangaki.fr/anime/326>`_, je passe pour un psychopathe, et si j'en mets trop comme *Piano no Mori* `ピアノの森 <https://mangaki.fr/anime/417>`_, je passe pour un enfant de 10 ans. Mais ce sont d'excellents films.
 
-1. *Fireworks* `打ち上げ花火、下から見るか？横から見るか？ <https://mangaki.fr/anime/18331>`_
-2. *Les Enfants loups, Ame & Yuki* `おおかみこどもの雨と雪 <https://mangaki.fr/anime/591>`_
-3. *El secreto de sus ojos*
-4. *12 Monkeys*
-5. *Millennium Actress* `千年女優 <https://mangaki.fr/anime/325>`_
+1. *Suzume* すずめの戸締まり & *Les Enfants loups, Ame & Yuki* `おおかみこどもの雨と雪 <https://mangaki.fr/anime/591>`_
+2. *12 Monkeys*
+3. *Adieu les cons*
+4. *El secreto de sus ojos*
+5. *The Social Network*
 6. *Oldboy*
 7. *Léon: The Professional*
-8. *Cowboy Bebop: Knockin' on Heaven's Door* `カウボーイビバップ 天国の扉 <https://mangaki.fr/anime/3405>`_
-9. *Porco Rosso* `紅の豚 <https://mangaki.fr/anime/410>`_
-10. *Le Vent se lève* `風立ちぬ <https://mangaki.fr/anime/958>`_
-11. *Mommy*
-12. *American Beauty*
-13. `REDLINE <https://mangaki.fr/anime/959>`_
+8. *Porco Rosso* `紅の豚 <https://mangaki.fr/anime/410>`_
+9. *The Ides of March* (*Les Marches du pouvoir*)
+10. *American Beauty*
+11. *Spider-Man: Into the Spider-Verse*
+12. *Good Will Hunting* & *The Martian*
+13. *Cowboy Bebop: Knockin’ on Heaven's Door* `カウボーイビバップ 天国の扉 <https://mangaki.fr/anime/3405>`_
 
-Mention particulière pour les deux claques en animation japonaise que j'ai vues :
+Il faudrait mettre *Parasite*, *Truman Show*, éventuellement *Eternal Sunshine*, et *Whiplash* quelque part.
 
-- *Rebellion* `劇場版 魔法少女まどか☆マギカ 叛逆の物語 <https://mangaki.fr/anime/176>`_
+Ghibli :
+
+1. *Princesse Mononoké*
+2. *Porco Rosso* `紅の豚 <https://mangaki.fr/anime/410>`_
+3. *Le Vent se lève* `風立ちぬ <https://mangaki.fr/anime/958>`_
+4. *Le Château dans le ciel* & *Nausicaä de la vallée du vent*
+5. *Le Château ambulant*
+6. *Mes voisins les Yamada*
+
+Animation US :
+
+1. *Soul*
+2. *Spider-Man: Into the Spider-Verse*
+3. *Là-haut*
+4. *WALL-E*
+5. *Les Mondes de Ralph*
+
+Très ému mais c'est assez personnel :
+
+- *Millennium Actress* `千年女優 <https://mangaki.fr/anime/325>`_
+- *Fireworks* `打ち上げ花火、下から見るか？横から見るか？ <https://mangaki.fr/anime/18331>`_
+
+Mention particulière pour les claques en animation japonaise que j'ai vues :
+
+- *Madoka Magica 3: Rebellion* `劇場版 魔法少女まどか☆マギカ 叛逆の物語 <https://mangaki.fr/anime/176>`_
 - *La Disparition de Haruhi Suzumiya* `涼宮ハルヒの消失 <https://mangaki.fr/anime/110>`_
+- `REDLINE <https://mangaki.fr/anime/959>`_
 
-Mais ce sont des suites de séries donc il vous faudra regarder d'abord *Madoka Magica* et *La Mélancolie de Haruhi Suzumiya*.
-
+Mais les deux premières sont des suites de séries donc il vous faudra regarder d'abord *Madoka Magica* et *La Mélancolie de Haruhi Suzumiya*.
 
 Les 4 M
 -------
 
-- Mud
-- Mommy
-- Metro Manila
+- *Mud*
+- *Mommy*
+- *Metro Manila*
 
 
 Mes anime préférés
 ------------------
+
+- *La Mélancolie de Haruhi Suzumiya*
+- *Psycho-Pass*
+- *Shouwa Genroku Rakugo Shinjuu*
+- *Erased*
+- *Kaiba (non, pas Yu-Gi-Oh!)*
+- *Cowboy Bebop*
 
 Voir `ma fiche Mangaki <https://mangaki.fr/u/jj/>`_
 
