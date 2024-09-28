@@ -10,11 +10,22 @@ Avec `Christoph Dürr <http://www-desir.lip6.fr/~durrc/>`_, j'anime le site `Try
 Apprendre à coder
 -----------------
 
-- Essayez une heure de code : `hourofcode.org/fr <http://hourofcode.org/fr>`_ (notamment pour les enfants)
+- Essayez une heure de code : `hourofcode.org/fr <https://hourofcode.org/fr>`_ (notamment pour les enfants)
+- Des petits challenges `Blockly <https://blockly.games/maze>`_ à résoudre dans un labyrinthe
+- `code.org/frozen <https://code.org/frozen>`_
+- Nous avons créé les stages `Girls Can Code <https://girlscancode.fr/>`_ en 2014 avec Prologin
 - La plate-forme d'apprentissage `France-ioi <http://france-ioi.org>`_
 - `JJ's Code Week </codeweek/>`_, du 8 au 14 décembre 2014
 - `Stage de Python </algo/stage-python/>`_ pour lycéens (par `Science ouverte <http://scienceouverte.fr>`_ et `Prologin <#prologin>`_)
-
+   - `Les projets <https://jill-jenn.net/algo/stage-python/projets.html>`_ des jeunes
+- `AI for kids <https://jill-jenn.net/_static/slides/ai4kids.pdf>`_
+- Nos conseils de `projets de code <https://tryalgo.org/fr/2017/05/08/conseils-option-icn/>`_ (initialement pour l'option ICN qui n'existe plus faute d'adoption)
+- `Atelier d'intro à Python <https://tryalgo.org/fr/2015/05/16/atelier-python-1/>`_
+- `Musique dans le navigateur <https://trinket.io/music>`_
+- Les ressources `Terra Numerica <https://portail.terra-numerica.org/>`_
+- Les ressources `Pixees <https://pixees.fr/category/public-cible/primaire/>`_
+- Les ressources de `Marie Duflot-Kremer <https://members.loria.fr/MDuflot/files/med/index.html>`_ VP médiation de la SIF (avec âges)
+- Le `Castor informatique <https://castor-informatique.fr/>`_ du CM1 à la terminale passé par 700k étudiants
 
 Sujets de TP
 ------------
@@ -73,10 +84,9 @@ Pour s'entraîner :
 Autres concours
 :::::::::::::::
 
-Avec Alexis Comte et Stéphane Henriot, nous avons rédigé une `liste des différents concours de programmation <https://jill-jenn.net/codeweek/4-competitions.html>`_. En voici quelques-uns notables.
+Avec Alexis Comte et Stéphane Henriot, nous avons rédigé une `liste des différents concours de programmation <https://jill-jenn.net/codeweek/4-competitions.html>`_.
 
-- `Google Code Jam <http://code.google.com/codejam/>`_ : concours annuel débutant en avril, composé d'excellents sujets parfois très difficiles.
-- `Codeforces <http://codeforces.com>`_ : un site russe anglophone avec des concours fréquents d'excellente qualité (plusieurs par mois).
+- `Codeforces <https://codeforces.com>`_ : un site russe anglophone avec des concours fréquents d'excellente qualité (plusieurs par mois).
 
 Bibliographie
 :::::::::::::

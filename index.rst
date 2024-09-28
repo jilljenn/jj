@@ -17,7 +17,7 @@ Responsabilités
 ---------------
 
 - Je suis jury de `l'agrégation d'informatique <https://agreg-info.org/>`_ avec `Marc Jeanmougin <https://marc.jeanmougin.fr/>`_.
-- Je suis coach de l'École polytechnique au concours `ICPC <https://worldfinals.icpc.global/>`_. Après deux médailles d'argent 🥈🥈, nous disputerons la finale à Astana, Kazakhstan.
+- Je suis coach de l'École polytechnique au concours `ICPC <https://worldfinals.icpc.global/>`_. Après deux médailles d'argent 🥈🥈 à SWERC 2023, nous avons été qualifiés en finale à Astana, Kazakhstan.
 - J'ai rejoint le `conseil scientifique de l'Éducation nationale <https://www.education.gouv.fr/le-conseil-scientifique-de-l-education-nationale-au-service-de-la-communaute-educative-309492>`_.
 
 
