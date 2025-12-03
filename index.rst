@@ -5,6 +5,8 @@ Je suis chargé de recherche à Inria Saclay dans l'équipe `Soda <https://team.
 
 Mes livres `Les Clés pour l'info <works>`_ ou `Competitive Programming <https://tryalgo.org/book/>`_ sont réédités.
 
+Nos équipes à Polytechnique ont remporté la compétition `ICPC SWERC 2024 <https://swerc.eu/>`_ (1re 🥇🏆, 3e 🥈 et 21e place). Bravo à eux !
+
 `CV (fr) </_static/CV.pdf>`_ / `résumé (en) </_static/résumé.pdf>`_
 
 .. toctree::

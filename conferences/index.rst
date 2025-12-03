@@ -6,6 +6,14 @@ Présentations
    :backlinks: none
 
 
+IA et apprentissage humain
+--------------------------
+
+Présenté au colloque IN FINE et à Numérique en communs.
+
+- `Slides <https://jjv.ie/slides/infine-handout.pdf>`_
+
+
 Adaptive Testing using a General Diagnostic Model
 -------------------------------------------------
 
